@@ -1,0 +1,188 @@
+{
+  "analysis_seconds": 76.898,
+  "clustering": {
+    "cluster_count": 20,
+    "clusters": [
+      {
+        "cluster": 0,
+        "recording_count": 119,
+        "segment_count": 991,
+        "top_species": "BA2A:760 | BD15A:74 | BE3D:45 | BD3B:39 | BE9A:21",
+        "top_species_fraction": 0.7669021190716448
+      },
+      {
+        "cluster": 1,
+        "recording_count": 969,
+        "segment_count": 974,
+        "top_species": "BE9A:194 | BD15A:109 | BD15C:101 | BE7A:94 | BD3B:88",
+        "top_species_fraction": 0.19917864476386038
+      },
+      {
+        "cluster": 2,
+        "recording_count": 1286,
+        "segment_count": 1290,
+        "top_species": "BD3B:224 | BA2A:177 | BE7A:136 | AC2A:86 | CB1A:84",
+        "top_species_fraction": 0.17364341085271318
+      },
+      {
+        "cluster": 3,
+        "recording_count": 190,
+        "segment_count": 978,
+        "top_species": "BA2A:886 | BE3D:45 | BE7A:22 | BE3C:6 | BD15C:4",
+        "top_species_fraction": 0.9059304703476483
+      },
+      {
+        "cluster": 4,
+        "recording_count": 83,
+        "segment_count": 1349,
+        "top_species": "BA2A:1333 | BE7A:6 | BD3B:5 | CC2A:2 | CB1A:1",
+        "top_species_fraction": 0.9881393624907339
+      },
+      {
+        "cluster": 5,
+        "recording_count": 422,
+        "segment_count": 2419,
+        "top_species": "AC1F:2324 | AC1E:39 | AC1A:36 | AB1A:13 | AC2A:4",
+        "top_species_fraction": 0.9607275733774286
+      },
+      {
+        "cluster": 6,
+        "recording_count": 847,
+        "segment_count": 868,
+        "top_species": "AA3A:256 | AA1A:229 | AC2A:152 | CB1A:46 | AA3B:39",
+        "top_species_fraction": 0.29493087557603687
+      },
+      {
+        "cluster": 7,
+        "recording_count": 170,
+        "segment_count": 760,
+        "top_species": "BA2A:690 | BD15F:11 | BD15A:11 | BD6A:9 | CC5A:6",
+        "top_species_fraction": 0.9078947368421053
+      },
+      {
+        "cluster": 8,
+        "recording_count": 764,
+        "segment_count": 764,
+        "top_species": "BD15L:125 | BE3D:90 | BD4A:88 | BD15A:79 | BD3B:71",
+        "top_species_fraction": 0.16361256544502617
+      },
+      {
+        "cluster": 9,
+        "recording_count": 954,
+        "segment_count": 1000,
+        "top_species": "BD15A:460 | BD6A:147 | BE3D:112 | BA2A:106 | BD4A:49",
+        "top_species_fraction": 0.46
+      },
+      {
+        "cluster": 10,
+        "recording_count": 202,
+        "segment_count": 1130,
+        "top_species": "AC2A:749 | AA1A:314 | CC2A:35 | CC4A:10 | CC5A:5",
+        "top_species_fraction": 0.6628318584070797
+      },
+      {
+        "cluster": 11,
+        "recording_count": 77,
+        "segment_count": 845,
+        "top_species": "BA2A:800 | BD3B:13 | BE3C:6 | BD10A:6 | BE3D:4",
+        "top_species_fraction": 0.9467455621301775
+      },
+      {
+        "cluster": 12,
+        "recording_count": 1039,
+        "segment_count": 1185,
+        "top_species": "BE7A:559 | AC2A:207 | BE3C:129 | CC14A:76 | CC2A:60",
+        "top_species_fraction": 0.47172995780590715
+      },
+      {
+        "cluster": 13,
+        "recording_count": 735,
+        "segment_count": 738,
+        "top_species": "BA2A:307 | BD10A:50 | BD4A:47 | BE7A:47 | AC1F:26",
+        "top_species_fraction": 0.4159891598915989
+      },
+      {
+        "cluster": 14,
+        "recording_count": 1461,
+        "segment_count": 1463,
+        "top_species": "BE7A:1005 | BD15F:123 | BE3C:69 | BD19D:53 | BE3D:30",
+        "top_species_fraction": 0.6869446343130554
+      },
+      {
+        "cluster": 15,
+        "recording_count": 300,
+        "segment_count": 1262,
+        "top_species": "BA2A:731 | CC5A:164 | BD15B:60 | BD15A:52 | BE3D:38",
+        "top_species_fraction": 0.5792393026941363
+      },
+      {
+        "cluster": 16,
+        "recording_count": 1205,
+        "segment_count": 1205,
+        "top_species": "BD15C:240 | BE3C:170 | BD15L:141 | BD3B:132 | BD6A:80",
+        "top_species_fraction": 0.1991701244813278
+      },
+      {
+        "cluster": 17,
+        "recording_count": 111,
+        "segment_count": 729,
+        "top_species": "BE3D:284 | BA2A:223 | BD15L:103 | BE3C:78 | CC5A:19",
+        "top_species_fraction": 0.3895747599451303
+      },
+      {
+        "cluster": 18,
+        "recording_count": 907,
+        "segment_count": 913,
+        "top_species": "BE3C:377 | BD15B:116 | BD6A:88 | BD3B:78 | BA2A:72",
+        "top_species_fraction": 0.4129244249726177
+      },
+      {
+        "cluster": 19,
+        "recording_count": 49,
+        "segment_count": 328,
+        "top_species": "BA2A:274 | [UNLABELED] WestIndianManatee:37 | CB1A:9 | CC5A:6 | BD6H:1",
+        "top_species_fraction": 0.8353658536585366
+      }
+    ],
+    "fit_split": "train",
+    "interpretation_note": "Exploratory acoustic grouping only; clusters do not demonstrate communication patterns or animal language.",
+    "method": "MiniBatchKMeans",
+    "sampled_train_silhouette": 0.13652408123016357,
+    "train_species_ari": 0.2691294878707383,
+    "train_species_nmi": 0.45959502301393684
+  },
+  "completed_at_utc": "2026-11-12T16:11:48.467190+00:00",
+  "pca": {
+    "explained_variance_ratio": [
+      0.14370116591453552,
+      0.1338023543357849
+    ],
+    "fit_split": "train"
+  },
+  "similarity": [
+    {
+      "comparison": "same_species",
+      "mean_cosine_similarity": 0.6221455931663513,
+      "median_cosine_similarity": 0.6408417224884033,
+      "p05_cosine_similarity": 0.2747226655483246,
+      "p95_cosine_similarity": 0.8846855163574219,
+      "pair_count": 2000
+    },
+    {
+      "comparison": "different_species",
+      "mean_cosine_similarity": 0.3593164086341858,
+      "median_cosine_similarity": 0.3595001697540283,
+      "p05_cosine_similarity": 0.1004427820444107,
+      "p95_cosine_similarity": 0.6342223882675171,
+      "pair_count": 2000
+    }
+  ],
+  "umap": {
+    "fit_split": "train",
+    "metric": "cosine",
+    "min_dist": 0.1,
+    "n_neighbors": 15,
+    "sample_size": 10000,
+    "status": "complete"
+  }
+}

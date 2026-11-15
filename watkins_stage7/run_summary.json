@@ -1,0 +1,132 @@
+{
+  "status": "complete",
+  "started_at_utc": "2026-11-13T15:02:53.605690+00:00",
+  "completed_at_utc": "2026-11-13T15:02:56.537152+00:00",
+  "execution_seconds": 2.9314658000002964,
+  "input_representation": {
+    "model": "laion/clap-htsat-unfused",
+    "dimension": 512,
+    "source": "Stage 4 embeddings.npy",
+    "normalization": "L2-normalized; any correction is in-memory only"
+  },
+  "fit_split": "train",
+  "training_segments": 21191,
+  "total_scored_segments": 29932,
+  "validated_recordings_by_split": {
+    "train": 10673,
+    "validation": 2287,
+    "test": 2288
+  },
+  "training_contamination": 0.05,
+  "novelty_threshold": 0.47334461746368195,
+  "score_interpretation": "Higher -score_samples means more anomalous.",
+  "score_summary_by_split": {
+    "train": {
+      "segments": 21191,
+      "score_mean": 0.4445225262814756,
+      "score_std": 0.017059976935929148,
+      "score_min": 0.40270126301744175,
+      "score_median": 0.4441879778110018,
+      "score_p90": 0.4665776981813664,
+      "score_p95": 0.47334461746368195,
+      "score_p99": 0.48677617658356076,
+      "score_max": 0.5193094221202219,
+      "threshold": 0.47334461746368195,
+      "flagged_segments": 1060,
+      "flagged_segment_percentage": 5.002123543013544,
+      "flagged_recordings": 738
+    },
+    "validation": {
+      "segments": 4479,
+      "score_mean": 0.4467684488323056,
+      "score_std": 0.016737161442586003,
+      "score_min": 0.40456652615226024,
+      "score_median": 0.4471074270632861,
+      "score_p90": 0.4684088422619266,
+      "score_p95": 0.47458929701105673,
+      "score_p99": 0.48683897846182617,
+      "score_max": 0.5109395148136658,
+      "threshold": 0.47334461746368195,
+      "flagged_segments": 269,
+      "flagged_segment_percentage": 6.005804867157847,
+      "flagged_recordings": 157
+    },
+    "test": {
+      "segments": 4262,
+      "score_mean": 0.44670023518953106,
+      "score_std": 0.01658569091927539,
+      "score_min": 0.40162017550047857,
+      "score_median": 0.44640459486726436,
+      "score_p90": 0.46787368836906473,
+      "score_p95": 0.4749680091013889,
+      "score_p99": 0.48755430747140127,
+      "score_max": 0.5084864486709085,
+      "threshold": 0.47334461746368195,
+      "flagged_segments": 248,
+      "flagged_segment_percentage": 5.818864382918817,
+      "flagged_recordings": 154
+    }
+  },
+  "flagged_segments": 1577,
+  "flagged_recordings": 1049,
+  "high_priority_recordings": 141,
+  "queue_priority_counts": {
+    "medium": 908,
+    "high": 141
+  },
+  "training_cluster_evaluation": {
+    "hdbscan_noise_segments": 3342,
+    "hdbscan_clustered_segments": 17849,
+    "noise_flagged_segments": 199,
+    "noise_flagged_percentage": 5.954518252543387,
+    "clustered_flagged_segments": 861,
+    "clustered_flagged_percentage": 4.823799652641605,
+    "mean_novelty_score_noise": 0.4457132842346426,
+    "mean_novelty_score_clustered": 0.4442995718818183,
+    "roc_auc_novelty_score_vs_hdbscan_noise": 0.5130557798868551,
+    "spearman_novelty_score_vs_hdbscan_noise": 0.01648360348926554,
+    "interpretation": "Agreement with HDBSCAN noise is descriptive only; HDBSCAN noise is not ground-truth novelty."
+  },
+  "training_hdbscan_clusters": 104,
+  "training_hdbscan_noise_segments": 3342,
+  "software": {
+    "python": "3.14.0b1",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.8.0"
+  },
+  "config": {
+    "random_state": 29,
+    "fit_split": "train",
+    "embedding_dim": 512,
+    "isolation_forest": {
+      "n_estimators": 300,
+      "max_samples": 256,
+      "contamination": 0.05,
+      "n_jobs": -1
+    },
+    "priority_threshold": "training contamination cutoff",
+    "priority_scheme": {
+      "high": "Stage 6 HDBSCAN noise and high Isolation Forest novelty",
+      "medium": "high novelty without a known Stage 6 noise label",
+      "review": "Stage 6 noise but below the novelty cutoff",
+      "normal": "Stage 6 cluster and below the novelty cutoff",
+      "not_clustered": "validation/test sample below novelty cutoff; Stage 6 did not cluster it"
+    },
+    "queue_policy": "one highest-novelty flagged segment per recording"
+  },
+  "outputs": [
+    "isolation_forest.joblib",
+    "segment_novelty_scores.csv",
+    "cluster_novelty_results.csv",
+    "investigation_queue.csv",
+    "novelty_score_distribution.png",
+    "cluster_vs_novelty.png",
+    "stage7_report.md",
+    "stage7_config.json",
+    "stage7.log",
+    "extract_stage7_audio.py"
+  ],
+  "species_labels_used_for_fitting": false,
+  "verified_novelty_ground_truth_available": false
+}

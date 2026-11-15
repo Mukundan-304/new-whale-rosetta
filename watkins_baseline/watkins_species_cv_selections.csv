@@ -1,0 +1,5 @@
+﻿representation,selected_algorithm,selected_class_weight,selected_C,outer_fold_selection_count
+clap,logistic_regression,balanced,0.1,10
+full_band,logistic_regression,balanced,0.1,6
+full_band,logistic_regression,balanced,1.0,1
+full_band,logistic_regression,balanced,10.0,3

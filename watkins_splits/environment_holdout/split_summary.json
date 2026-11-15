@@ -1,0 +1,770 @@
+{
+  "strategy": "StratifiedGroupKFold with direct location domains and exact duplicate audio kept together",
+  "group_field": "location_group",
+  "seed": 29,
+  "requested_split_percentages": {
+    "train": 70.0,
+    "validation": 15.0,
+    "test": 15.0
+  },
+  "split_counts": {
+    "train": {
+      "recordings": 11495,
+      "recording_percent": 75.38693599160545,
+      "segments": 24874,
+      "segment_percent": 83.1016971802753,
+      "unique_species_labels": 57,
+      "known_location_recordings": 11489,
+      "known_location_domains": 174
+    },
+    "validation": {
+      "recordings": 1352,
+      "recording_percent": 8.866736621196223,
+      "segments": 1907,
+      "segment_percent": 6.3711078444474145,
+      "unique_species_labels": 22,
+      "known_location_recordings": 1350,
+      "known_location_domains": 23
+    },
+    "test": {
+      "recordings": 2401,
+      "recording_percent": 15.74632738719832,
+      "segments": 3151,
+      "segment_percent": 10.527194975277295,
+      "unique_species_labels": 22,
+      "known_location_recordings": 2368,
+      "known_location_domains": 29
+    }
+  },
+  "species_label_count": 57,
+  "species_with_fewer_than_three_independent_recordings": 6,
+  "species_coverage": [
+    {
+      "species": "AA1A",
+      "recordings": 404,
+      "independent_audio_groups": 404,
+      "splits_present": [
+        "test",
+        "train"
+      ],
+      "splits_absent": [
+        "validation"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "AA3A",
+      "recordings": 435,
+      "independent_audio_groups": 434,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "AA3B",
+      "recordings": 49,
+      "independent_audio_groups": 49,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "AB1A",
+      "recordings": 36,
+      "independent_audio_groups": 36,
+      "splits_present": [
+        "test",
+        "train"
+      ],
+      "splits_absent": [
+        "validation"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "AC1A",
+      "recordings": 24,
+      "independent_audio_groups": 24,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "AC1E",
+      "recordings": 3,
+      "independent_audio_groups": 3,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "AC1F",
+      "recordings": 567,
+      "independent_audio_groups": 557,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "AC2A",
+      "recordings": 604,
+      "independent_audio_groups": 604,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BA2A",
+      "recordings": 1313,
+      "independent_audio_groups": 1313,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BB1A",
+      "recordings": 150,
+      "independent_audio_groups": 150,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BB2A",
+      "recordings": 86,
+      "independent_audio_groups": 86,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD10A",
+      "recordings": 161,
+      "independent_audio_groups": 161,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD12A",
+      "recordings": 5,
+      "independent_audio_groups": 5,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD12B",
+      "recordings": 12,
+      "independent_audio_groups": 12,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD15A",
+      "recordings": 1033,
+      "independent_audio_groups": 1033,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD15B",
+      "recordings": 328,
+      "independent_audio_groups": 328,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD15C",
+      "recordings": 681,
+      "independent_audio_groups": 681,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD15F",
+      "recordings": 244,
+      "independent_audio_groups": 244,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD15L",
+      "recordings": 492,
+      "independent_audio_groups": 491,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD17A",
+      "recordings": 98,
+      "independent_audio_groups": 98,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD19D",
+      "recordings": 184,
+      "independent_audio_groups": 184,
+      "splits_present": [
+        "test",
+        "train"
+      ],
+      "splits_absent": [
+        "validation"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD1A",
+      "recordings": 1,
+      "independent_audio_groups": 1,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": true
+    },
+    {
+      "species": "BD1C",
+      "recordings": 14,
+      "independent_audio_groups": 14,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD3A",
+      "recordings": 69,
+      "independent_audio_groups": 69,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD3B",
+      "recordings": 884,
+      "independent_audio_groups": 884,
+      "splits_present": [
+        "test",
+        "train"
+      ],
+      "splits_absent": [
+        "validation"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD4A",
+      "recordings": 359,
+      "independent_audio_groups": 359,
+      "splits_present": [
+        "train",
+        "validation"
+      ],
+      "splits_absent": [
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD5A",
+      "recordings": 199,
+      "independent_audio_groups": 199,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD6A",
+      "recordings": 560,
+      "independent_audio_groups": 560,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD6B",
+      "recordings": 196,
+      "independent_audio_groups": 196,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BD6H",
+      "recordings": 27,
+      "independent_audio_groups": 27,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BE3C",
+      "recordings": 1169,
+      "independent_audio_groups": 1169,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BE3D",
+      "recordings": 619,
+      "independent_audio_groups": 619,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BE7A",
+      "recordings": 2646,
+      "independent_audio_groups": 2645,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BE9A",
+      "recordings": 508,
+      "independent_audio_groups": 508,
+      "splits_present": [
+        "test",
+        "train"
+      ],
+      "splits_absent": [
+        "validation"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BF2A",
+      "recordings": 46,
+      "independent_audio_groups": 46,
+      "splits_present": [
+        "train",
+        "validation"
+      ],
+      "splits_absent": [
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BF4A",
+      "recordings": 52,
+      "independent_audio_groups": 52,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "BF6A",
+      "recordings": 2,
+      "independent_audio_groups": 2,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": true
+    },
+    {
+      "species": "BG2A",
+      "recordings": 30,
+      "independent_audio_groups": 30,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CA1F",
+      "recordings": 2,
+      "independent_audio_groups": 2,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": true
+    },
+    {
+      "species": "CA1P",
+      "recordings": 4,
+      "independent_audio_groups": 4,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CA3B",
+      "recordings": 6,
+      "independent_audio_groups": 6,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CB1A",
+      "recordings": 272,
+      "independent_audio_groups": 272,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CC12F",
+      "recordings": 45,
+      "independent_audio_groups": 45,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CC12G",
+      "recordings": 47,
+      "independent_audio_groups": 47,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CC12H",
+      "recordings": 46,
+      "independent_audio_groups": 46,
+      "splits_present": [
+        "train",
+        "validation"
+      ],
+      "splits_absent": [
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CC12L",
+      "recordings": 22,
+      "independent_audio_groups": 22,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CC14A",
+      "recordings": 131,
+      "independent_audio_groups": 131,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CC1A",
+      "recordings": 2,
+      "independent_audio_groups": 2,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": true
+    },
+    {
+      "species": "CC2A",
+      "recordings": 66,
+      "independent_audio_groups": 66,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CC3A",
+      "recordings": 7,
+      "independent_audio_groups": 7,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CC4A",
+      "recordings": 33,
+      "independent_audio_groups": 33,
+      "splits_present": [
+        "train",
+        "validation"
+      ],
+      "splits_absent": [
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CC5A",
+      "recordings": 133,
+      "independent_audio_groups": 133,
+      "splits_present": [
+        "test",
+        "train",
+        "validation"
+      ],
+      "splits_absent": [],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "CD1A",
+      "recordings": 2,
+      "independent_audio_groups": 2,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": true
+    },
+    {
+      "species": "[UNLABELED] Fin_FinbackWhale",
+      "recordings": 10,
+      "independent_audio_groups": 10,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "[UNLABELED] KillerWhale",
+      "recordings": 1,
+      "independent_audio_groups": 1,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": true
+    },
+    {
+      "species": "[UNLABELED] NorthernRightWhale",
+      "recordings": 51,
+      "independent_audio_groups": 51,
+      "splits_present": [
+        "train",
+        "validation"
+      ],
+      "splits_absent": [
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    },
+    {
+      "species": "[UNLABELED] WestIndianManatee",
+      "recordings": 78,
+      "independent_audio_groups": 78,
+      "splits_present": [
+        "train"
+      ],
+      "splits_absent": [
+        "validation",
+        "test"
+      ],
+      "rare_independent_recording_count": false
+    }
+  ],
+  "stratification_warnings": [
+    "The least populated class in y has only 1 members, which is less than n_splits=20."
+  ]
+}

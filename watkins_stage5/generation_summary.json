@@ -1,0 +1,278 @@
+{
+  "status": "complete",
+  "completed_at_utc": "2026-11-13T14:23:58Z",
+  "total_run_seconds": 13190.8001098,
+  "training": {
+    "device": "cuda",
+    "encoder_model_id": "laion/clap-htsat-unfused",
+    "encoder_trainable_parameters": 0,
+    "projection_trainable_parameters": 328320,
+    "best_epoch": 3,
+    "best_validation_loss": 1.0604579264635345,
+    "elapsed_training_seconds": 11413.219539200001,
+    "train_samples_per_epoch": 21191,
+    "validation_samples_per_epoch": 4479,
+    "configured_epochs": 3,
+    "cuda_peak_allocated_mib": 959.52001953125,
+    "checkpoint": "D:\\marine\\watkins_stage5\\checkpoints\\best.pt",
+    "smoke_only": false,
+    "train_samples_processed": 63573
+  },
+  "embeddings": [
+    {
+      "split": "train",
+      "segments": 21191,
+      "embedding_dim": 128,
+      "all_finite": true,
+      "all_l2_normalized": true,
+      "embeddings_file": "D:\\marine\\watkins_stage5\\train\\embeddings.npy",
+      "metadata_file": "D:\\marine\\watkins_stage5\\train\\metadata.csv"
+    },
+    {
+      "split": "validation",
+      "segments": 4479,
+      "embedding_dim": 128,
+      "all_finite": true,
+      "all_l2_normalized": true,
+      "embeddings_file": "D:\\marine\\watkins_stage5\\validation\\embeddings.npy",
+      "metadata_file": "D:\\marine\\watkins_stage5\\validation\\metadata.csv"
+    },
+    {
+      "split": "test",
+      "segments": 4262,
+      "embedding_dim": 128,
+      "all_finite": true,
+      "all_l2_normalized": true,
+      "embeddings_file": "D:\\marine\\watkins_stage5\\test\\embeddings.npy",
+      "metadata_file": "D:\\marine\\watkins_stage5\\test\\metadata.csv"
+    }
+  ],
+  "evaluation": {
+    "embedding_dimensions": {
+      "stage4_clap": 512,
+      "stage5_ssl": 128
+    },
+    "linear_probe": {
+      "stage4_clap": {
+        "validation": {
+          "accuracy": 0.825853985264568,
+          "macro_f1_train_classes": 0.41078718117337604,
+          "samples": 4479,
+          "unseen_species_samples": 0
+        },
+        "test": {
+          "accuracy": 0.839277334584702,
+          "macro_f1_train_classes": 0.40882466624707114,
+          "samples": 4262,
+          "unseen_species_samples": 0
+        }
+      },
+      "stage5_ssl": {
+        "validation": {
+          "accuracy": 0.715561509265461,
+          "macro_f1_train_classes": 0.31469231395333547,
+          "samples": 4479,
+          "unseen_species_samples": 0
+        },
+        "test": {
+          "accuracy": 0.7165649929610511,
+          "macro_f1_train_classes": 0.31116658059085206,
+          "samples": 4262,
+          "unseen_species_samples": 0
+        }
+      }
+    },
+    "clustering": {
+      "stage4_clap": {
+        "clusters": 20,
+        "sampled_train_silhouette": 0.13518548011779785,
+        "train_species_nmi": 0.4617511838333624,
+        "train_species_ari": 0.24793023785716875
+      },
+      "stage5_ssl": {
+        "clusters": 20,
+        "sampled_train_silhouette": 0.09547121822834015,
+        "train_species_nmi": 0.32932789686088926,
+        "train_species_ari": 0.19182370172328653
+      }
+    },
+    "cosine_similarity": [
+      {
+        "pair_type": "same_species",
+        "representation": "stage4_clap",
+        "pairs": 2000,
+        "mean_cosine": 0.5613084435462952,
+        "median_cosine": 0.569900393486023,
+        "p05_cosine": 0.21226376295089722,
+        "p95_cosine": 0.8780840635299683
+      },
+      {
+        "pair_type": "same_species",
+        "representation": "stage5_ssl",
+        "pairs": 2000,
+        "mean_cosine": 0.3883737325668335,
+        "median_cosine": 0.3971215486526489,
+        "p05_cosine": -0.11398600786924362,
+        "p95_cosine": 0.8525034785270691
+      },
+      {
+        "pair_type": "different_species",
+        "representation": "stage4_clap",
+        "pairs": 2000,
+        "mean_cosine": 0.3214949369430542,
+        "median_cosine": 0.31753045320510864,
+        "p05_cosine": 0.04772771894931793,
+        "p95_cosine": 0.5977845788002014
+      },
+      {
+        "pair_type": "different_species",
+        "representation": "stage5_ssl",
+        "pairs": 2000,
+        "mean_cosine": 0.12272650003433228,
+        "median_cosine": 0.11359554529190063,
+        "p05_cosine": -0.2587718963623047,
+        "p95_cosine": 0.5370060205459595
+      },
+      {
+        "pair_type": "same_species_same_location",
+        "representation": "stage4_clap",
+        "pairs": 2000,
+        "mean_cosine": 0.6276405453681946,
+        "median_cosine": 0.653112530708313,
+        "p05_cosine": 0.22962485253810883,
+        "p95_cosine": 0.9034194350242615
+      },
+      {
+        "pair_type": "same_species_same_location",
+        "representation": "stage5_ssl",
+        "pairs": 2000,
+        "mean_cosine": 0.47062888741493225,
+        "median_cosine": 0.5107265114784241,
+        "p05_cosine": -0.07480169832706451,
+        "p95_cosine": 0.8807996511459351
+      },
+      {
+        "pair_type": "same_species_different_location",
+        "representation": "stage4_clap",
+        "pairs": 2000,
+        "mean_cosine": 0.5042051672935486,
+        "median_cosine": 0.5140318870544434,
+        "p05_cosine": 0.1866210550069809,
+        "p95_cosine": 0.799223780632019
+      },
+      {
+        "pair_type": "same_species_different_location",
+        "representation": "stage5_ssl",
+        "pairs": 2000,
+        "mean_cosine": 0.3181603252887726,
+        "median_cosine": 0.3301273584365845,
+        "p05_cosine": -0.1322093904018402,
+        "p95_cosine": 0.7590614557266235
+      }
+    ],
+    "environment_metadata": {
+      "train": {
+        "location_domain": {
+          "description": "recording location domain",
+          "known_segments": 21080,
+          "segments": 21191,
+          "unique_values": 222
+        },
+        "observation_date": {
+          "description": "observation date",
+          "known_segments": 18938,
+          "segments": 21191,
+          "unique_values": 259
+        },
+        "sound_channel_source_code": {
+          "description": "sound/channel source code",
+          "known_segments": 21186,
+          "segments": 21191,
+          "unique_values": 37
+        }
+      },
+      "validation": {
+        "location_domain": {
+          "description": "recording location domain",
+          "known_segments": 4470,
+          "segments": 4479,
+          "unique_values": 176
+        },
+        "observation_date": {
+          "description": "observation date",
+          "known_segments": 3560,
+          "segments": 4479,
+          "unique_values": 227
+        },
+        "sound_channel_source_code": {
+          "description": "sound/channel source code",
+          "known_segments": 4476,
+          "segments": 4479,
+          "unique_values": 26
+        }
+      },
+      "test": {
+        "location_domain": {
+          "description": "recording location domain",
+          "known_segments": 4251,
+          "segments": 4262,
+          "unique_values": 178
+        },
+        "observation_date": {
+          "description": "observation date",
+          "known_segments": 3956,
+          "segments": 4262,
+          "unique_values": 230
+        },
+        "sound_channel_source_code": {
+          "description": "sound/channel source code",
+          "known_segments": 4260,
+          "segments": 4262,
+          "unique_values": 28
+        }
+      },
+      "availability": {
+        "recording_device_id": false,
+        "recording_session_id": false,
+        "location_proxy": true,
+        "date": true,
+        "note": "The channel/source code is not a verified recorder/device identifier; location is a coarse environmental proxy."
+      }
+    },
+    "pca": {
+      "stage4_clap": {
+        "explained_variance_ratio": [
+          0.14370116591453552,
+          0.1338023543357849
+        ],
+        "sampled_train_points": 6000
+      },
+      "stage5_ssl": {
+        "explained_variance_ratio": [
+          0.174503892660141,
+          0.1168530136346817
+        ],
+        "sampled_train_points": 6000
+      }
+    },
+    "umap": {
+      "stage4_clap": {
+        "sampled_train_points": 5000,
+        "parameters": {
+          "n_neighbors": 15,
+          "min_dist": 0.1,
+          "metric": "cosine"
+        }
+      },
+      "stage5_ssl": {
+        "sampled_train_points": 5000,
+        "parameters": {
+          "n_neighbors": 15,
+          "min_dist": 0.1,
+          "metric": "cosine"
+        }
+      },
+      "status": "complete"
+    }
+  }
+}

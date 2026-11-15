@@ -1,0 +1,59 @@
+{
+  "completed_at_utc": "2026-11-12T16:09:41.890726+00:00",
+  "completed_segment_count": 29932,
+  "cuda_peak_memory_bytes": 719511040,
+  "device": "cuda",
+  "embedding_dim": 512,
+  "expected_segment_count": 29932,
+  "model_commit": null,
+  "model_id": "laion/clap-htsat-unfused",
+  "processing_seconds": 1959.481,
+  "resources": {
+    "gpu_memory_used_peak_bytes": 909115392,
+    "gpu_utilization_percent_max": 100,
+    "gpu_utilization_percent_mean": 29.6,
+    "gpu_utilization_samples": 63,
+    "process_cpu_percent_max": 129.2,
+    "process_cpu_percent_mean": 105.61,
+    "process_rss_peak_bytes": 8666923008,
+    "system_available_ram_min_bytes": 4829564928
+  },
+  "splits": [
+    {
+      "completed": 21191,
+      "cuda_peak_memory_bytes": 720559616,
+      "device": "cuda",
+      "embedding_dim": 512,
+      "embedding_file": "D:\\marine\\watkins_stage4\\train\\embeddings.npy",
+      "metadata_file": "D:\\marine\\watkins_stage4\\train\\metadata.csv",
+      "processing_seconds": 1284.983,
+      "segments": 21191,
+      "split": "train"
+    },
+    {
+      "completed": 4479,
+      "cuda_peak_memory_bytes": 719511040,
+      "device": "cuda",
+      "embedding_dim": 512,
+      "embedding_file": "D:\\marine\\watkins_stage4\\validation\\embeddings.npy",
+      "metadata_file": "D:\\marine\\watkins_stage4\\validation\\metadata.csv",
+      "processing_seconds": 340.751,
+      "segments": 4479,
+      "split": "validation"
+    },
+    {
+      "completed": 4262,
+      "cuda_peak_memory_bytes": 719511040,
+      "device": "cuda",
+      "embedding_dim": 512,
+      "embedding_file": "D:\\marine\\watkins_stage4\\test\\embeddings.npy",
+      "metadata_file": "D:\\marine\\watkins_stage4\\test\\metadata.csv",
+      "processing_seconds": 333.747,
+      "segments": 4262,
+      "split": "test"
+    }
+  ],
+  "status": "complete",
+  "torch_cuda_version": "13.0",
+  "torch_version": "2.14.1+cu130"
+}

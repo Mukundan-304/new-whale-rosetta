@@ -1,0 +1,20 @@
+{
+  "random_state": 29,
+  "fit_split": "train",
+  "embedding_dim": 512,
+  "isolation_forest": {
+    "n_estimators": 300,
+    "max_samples": 256,
+    "contamination": 0.05,
+    "n_jobs": -1
+  },
+  "priority_threshold": "training contamination cutoff",
+  "priority_scheme": {
+    "high": "Stage 6 HDBSCAN noise and high Isolation Forest novelty",
+    "medium": "high novelty without a known Stage 6 noise label",
+    "review": "Stage 6 noise but below the novelty cutoff",
+    "normal": "Stage 6 cluster and below the novelty cutoff",
+    "not_clustered": "validation/test sample below novelty cutoff; Stage 6 did not cluster it"
+  },
+  "queue_policy": "one highest-novelty flagged segment per recording"
+}

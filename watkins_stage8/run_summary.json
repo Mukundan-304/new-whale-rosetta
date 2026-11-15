@@ -1,0 +1,36 @@
+{
+  "status": "complete",
+  "stage": 8,
+  "execution_seconds": 3.5,
+  "timestamp_utc": "2026-11-13T15:36:43.549633+00:00",
+  "random_seed": 29,
+  "n_pairs_evaluated": 5000,
+  "python_version": "3.14.0b1",
+  "metrics": {
+    "cramer_v_species_location": 0.9303836202800971,
+    "nmi_species_location": 0.7713086638845762,
+    "ari_species_location": 0.6133083187866898,
+    "single_location_species_pct": 26.41509433962264,
+    "cluster_location_nmi": 0.6858230401148273,
+    "novelty_kruskal_wallis_h": 3721.6202324594183,
+    "novelty_kruskal_wallis_p": 0.0,
+    "same_species_same_location_mean_cosine": 0.6897,
+    "same_species_diff_location_mean_cosine": 0.5075,
+    "diff_species_same_location_mean_cosine": 0.5086,
+    "diff_species_diff_location_mean_cosine": 0.3216,
+    "intra_species_location_gap": 0.1823,
+    "inter_species_location_boost": 0.187
+  },
+  "artifacts": {
+    "metadata_audit_csv": "D:\\marine\\watkins_stage8\\metadata_audit.csv",
+    "environment_analysis_csv": "D:\\marine\\watkins_stage8\\environment_analysis.csv",
+    "stage8_report_md": "D:\\marine\\watkins_stage8\\stage8_report.md",
+    "plots": [
+      "D:\\marine\\watkins_stage8\\species_location_distribution.png",
+      "D:\\marine\\watkins_stage8\\cluster_location_distribution.png",
+      "D:\\marine\\watkins_stage8\\novelty_location_distribution.png",
+      "D:\\marine\\watkins_stage8\\cosine_similarity_environment_gap.png"
+    ],
+    "log": "D:\\marine\\watkins_stage8\\stage8.log"
+  }
+}

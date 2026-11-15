@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "stage": 10,
+  "smoke_test": true,
+  "execution_seconds": 19.8,
+  "timestamp_utc": "2026-11-13T16:23:34.374650+00:00",
+  "device": "cuda",
+  "parameters": {
+    "total": 407648,
+    "trainable": 407648
+  },
+  "metrics": {
+    "best_val_loss": 2.9814,
+    "linear_probe_val_acc": 0.586,
+    "linear_probe_test_acc": 0.54,
+    "linear_probe_test_macro_f1": 0.7061,
+    "same_species_same_loc_cosine": 0.9446,
+    "same_species_diff_loc_cosine": 0.9273,
+    "intra_species_location_gap": 0.0173
+  },
+  "artifacts": {
+    "checkpoint": "D:\\marine\\watkins_stage10\\checkpoints\\best.pt",
+    "train_embeddings": "D:\\marine\\watkins_stage10\\train\\embeddings.npy",
+    "val_embeddings": "D:\\marine\\watkins_stage10\\validation\\embeddings.npy",
+    "test_embeddings": "D:\\marine\\watkins_stage10\\test\\embeddings.npy",
+    "stage10_report_md": "D:\\marine\\watkins_stage10\\stage10_report.md",
+    "plots": [
+      "D:\\marine\\watkins_stage10\\training_loss_curves.png",
+      "D:\\marine\\watkins_stage10\\embeddings_pca_comparison.png"
+    ],
+    "log": "D:\\marine\\watkins_stage10\\stage10.log"
+  }
+}

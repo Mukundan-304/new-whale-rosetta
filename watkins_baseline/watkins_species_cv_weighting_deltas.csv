@@ -1,0 +1,3 @@
+﻿representation,unweighted_minus_balanced_accuracy_mean,unweighted_minus_balanced_accuracy_fold_sd,unweighted_minus_balanced_macro_f1_mean,unweighted_minus_balanced_macro_f1_fold_sd
+clap,0.008864431526283623,0.014382104023085951,-0.005140846191883328,0.026318409671347014
+full_band,0.024299057271683355,0.016212701548220704,-0.03473389746228376,0.03474750505628015

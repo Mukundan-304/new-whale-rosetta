@@ -1,0 +1,5 @@
+﻿split,selection,record_number,location_group,duration_seconds,sample_rate_hz,preview_seconds,wav_file
+train,typical,75012057,location-group-005,2.1221848739495797,166600,2.1221848739495797,train_typical_75012057.wav
+train,longest,5402400B,location-group-010,69.98128712871286,60600,10.0,train_longest_5402400B.wav
+validation,typical,7703500I,location-group-004,1.6368967587034815,166600,1.6368967587034815,validation_typical_7703500I.wav
+validation,longest,7703400W,location-group-004,215.66663366336633,60600,10.0,validation_longest_7703400W.wav

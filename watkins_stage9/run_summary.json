@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "stage": 9,
+  "execution_seconds": 2.92,
+  "timestamp_utc": "2026-11-13T15:49:59.144323+00:00",
+  "python_version": "3.14.0b1",
+  "metrics": {
+    "total_recordings_evaluated": 10673,
+    "multi_segment_recordings": 1258,
+    "single_segment_recordings": 9415,
+    "total_transitions_evaluated": 10518,
+    "self_transition_ratio": 0.8349,
+    "self_transition_pct": 83.49,
+    "state_change_pct": 16.51,
+    "noise_transition_pct": 12.09,
+    "total_trigrams_evaluated": 9260,
+    "alternating_trigrams_count": 271,
+    "novelty_first_segment_flag_pct": 9.31,
+    "novelty_middle_segment_flag_pct": 4.04,
+    "novelty_last_segment_flag_pct": 5.46,
+    "novelty_position_kruskal_wallis_h": 26.09947468320883,
+    "novelty_position_kruskal_wallis_p": 2.1506566548312444e-06
+  },
+  "artifacts": {
+    "temporal_transitions_csv": "D:\\marine\\watkins_stage9\\temporal_transitions.csv",
+    "common_sequences_csv": "D:\\marine\\watkins_stage9\\common_sequences.csv",
+    "recording_sequence_summary_csv": "D:\\marine\\watkins_stage9\\recording_sequence_summary.csv",
+    "stage9_report_md": "D:\\marine\\watkins_stage9\\stage9_report.md",
+    "plots": [
+      "D:\\marine\\watkins_stage9\\cluster_transition_heatmap.png",
+      "D:\\marine\\watkins_stage9\\top_cluster_transitions.png",
+      "D:\\marine\\watkins_stage9\\common_temporal_sequences.png",
+      "D:\\marine\\watkins_stage9\\recording_sequence_examples.png"
+    ],
+    "log": "D:\\marine\\watkins_stage9\\stage9.log"
+  }
+}

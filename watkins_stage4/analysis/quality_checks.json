@@ -1,0 +1,51 @@
+{
+  "embedding_dimensions": 512,
+  "split_id_overlap": false,
+  "splits": {
+    "test": {
+      "all_audio_paths_valid": true,
+      "cross_split_segment_id_overlap": 0,
+      "duplicate_segment_ids": 0,
+      "embedding_shape": [
+        4262,
+        512
+      ],
+      "invalid_vectors": 0,
+      "metadata_matches_embeddings": true,
+      "recordings": 2288,
+      "segments": 4262,
+      "species": 51
+    },
+    "train": {
+      "all_audio_paths_valid": true,
+      "cross_split_segment_id_overlap": 0,
+      "duplicate_segment_ids": 0,
+      "embedding_shape": [
+        21191,
+        512
+      ],
+      "invalid_vectors": 0,
+      "metadata_matches_embeddings": true,
+      "recordings": 10673,
+      "segments": 21191,
+      "species": 57
+    },
+    "validation": {
+      "all_audio_paths_valid": true,
+      "cross_split_segment_id_overlap": 0,
+      "duplicate_segment_ids": 0,
+      "embedding_shape": [
+        4479,
+        512
+      ],
+      "invalid_vectors": 0,
+      "metadata_matches_embeddings": true,
+      "recordings": 2287,
+      "segments": 4479,
+      "species": 53
+    }
+  },
+  "status": "passed",
+  "total_segments": 29932,
+  "unique_segment_ids": 29932
+}

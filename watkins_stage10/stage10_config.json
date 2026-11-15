@@ -1,0 +1,20 @@
+{
+  "random_seed": 29,
+  "batch_size": 16,
+  "epochs": 3,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.0001,
+  "d_model": 128,
+  "nhead": 4,
+  "num_layers": 2,
+  "dim_feedforward": 256,
+  "proj_dim": 128,
+  "dropout": 0.1,
+  "temperature": 0.1,
+  "mixed_precision": true,
+  "augmentations": {
+    "time_mask_max_frames": 30,
+    "freq_mask_max_bins": 16,
+    "noise_snr_db": 35.0
+  }
+}

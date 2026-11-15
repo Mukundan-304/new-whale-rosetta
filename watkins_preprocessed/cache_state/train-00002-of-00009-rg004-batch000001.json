@@ -1,0 +1,10 @@
+{
+  "config_digest": "1d7d758caacd24e08f7284a988a3ce486a6b07862a52932eeca783821b2546cb",
+  "error_count": 0,
+  "row_count": 32,
+  "row_start": 1480,
+  "segment_count": 33,
+  "source_file": "train-00002-of-00009.parquet",
+  "source_file_mtime_ns": 1794285314792451500,
+  "source_file_size": 800247181
+}

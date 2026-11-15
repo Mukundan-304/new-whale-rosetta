@@ -1,0 +1,12 @@
+{
+  "encoder_name": "LAION CLAP HTSAT unfused",
+  "model_id": "laion/clap-htsat-unfused",
+  "sample_rate_hz": 48000,
+  "segment_duration_seconds": 5.0,
+  "batch_size": 4,
+  "mixed_precision_on_cuda": true,
+  "random_state": 29,
+  "cluster_count": 20,
+  "similarity_pairs_per_group": 2000,
+  "umap_train_sample_size": 10000
+}

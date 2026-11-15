@@ -1,0 +1,9 @@
+{
+  "completed_count": 21191,
+  "embedding_dim": 512,
+  "expected_segments": 21191,
+  "fingerprint": "7bf73a1b9107b8519c5853a181f097425601fc8e4871c1f80812e13fec7af348",
+  "last_segment_id": "train-00008-of-00009.parquet:1693:0",
+  "processing_seconds": 1284.974,
+  "updated_at_utc": "2026-11-12T15:58:27.125894+00:00"
+}

@@ -1,0 +1,4 @@
+﻿example_type,recording_id,species_label,source_sample_rate_hz,recording_duration_seconds,segment_id,spectrogram_path
+short,49001001,BB1A,10000,4.0882,train-00000-of-00009.parquet:0:0,D:\marine\watkins_preprocessed\spectrogram_previews\short_segment.png
+typical,49001003,BB1A,10000,10.7485,train-00000-of-00009.parquet:2:0,D:\marine\watkins_preprocessed\spectrogram_previews\typical_segment.png
+long,54024006,BE3C,60600,52.59585808580858,train-00000-of-00009.parquet:120:0,D:\marine\watkins_preprocessed\spectrogram_previews\long_segment.png

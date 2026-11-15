@@ -1,0 +1,1170 @@
+﻿species_code,split,location_group,parquet_file,parquet_row_index,record_number,mid,observation_date,location_names,location_coordinates,sample_rate_metadata
+BE3C,train,location-group-002,train-00000-of-00009.parquet,10,53007001,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,11,53007002,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,12,53007003,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,13,53007004,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,14,53007005,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,15,53007006,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,16,53007007,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,17,53007008,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,18,53007009,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,19,5300700A,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,20,5300700B,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,21,5300700C,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,22,5300700D,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,train,location-group-002,train-00000-of-00009.parquet,23,5300700E,whoi0039,1953-06-11T00:00:00Z,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",23500
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,24,54004001,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,25,54004002,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,26,54004003,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,27,54004004,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,28,54004005,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,29,54004006,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,30,54004007,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,31,54004008,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,32,54004009,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,33,5400400A,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,34,5400400B,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,35,5400400C,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,36,5400400D,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,37,5400400E,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,38,5400400F,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,39,5400400G,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,40,5400400H,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,41,5400400I,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,42,5400400J,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,43,5400400K,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,44,5400400L,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,45,5400400M,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,46,5400400N,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,47,5400400O,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,48,5400400P,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,49,5400400Q,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,50,5400400R,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,51,5400400S,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,52,5400400T,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,53,5400400U,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,54,5400400V,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,55,5400400W,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,56,5400400X,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,57,5400400Y,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,58,5400400Z,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,59,54004010,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,60,54004011,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,61,54004012,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,62,54004013,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,63,54004014,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,64,54004015,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,65,54004016,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,66,54004017,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,67,54004018,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,68,54004019,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,69,5400401A,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,70,5400401B,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,71,5400401C,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,72,5400401D,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,73,5400401E,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,74,5400401F,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,75,5400401G,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,76,5400401H,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,77,5400401I,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,78,5400401J,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,79,5400401K,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,80,5400401L,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,81,5400401M,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,82,5400401N,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,83,5400401O,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,84,5400401P,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,validation,location-group-009,train-00000-of-00009.parquet,85,5400401Q,whoi0039,1954-07-18T00:00:00Z,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",30000
+BE3C,train,location-group-010,train-00000-of-00009.parquet,115,54024001,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",30000
+BE3C,train,location-group-010,train-00000-of-00009.parquet,116,54024002,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",30000
+BE3C,train,location-group-010,train-00000-of-00009.parquet,117,54024003,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",30000
+BE3C,train,location-group-010,train-00000-of-00009.parquet,118,54024004,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",30000
+BE3C,train,location-group-010,train-00000-of-00009.parquet,119,54024005,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",30000
+BE3C,train,location-group-010,train-00000-of-00009.parquet,120,54024006,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",60600
+BE3C,train,location-group-010,train-00000-of-00009.parquet,121,54024007,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",60600
+BE3C,train,location-group-010,train-00000-of-00009.parquet,122,54024008,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",60600
+BE3C,train,location-group-010,train-00000-of-00009.parquet,123,54024009,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",60600
+BE3C,train,location-group-010,train-00000-of-00009.parquet,124,5402400A,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",30000
+BE3C,train,location-group-010,train-00000-of-00009.parquet,125,5402400B,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",60600
+BE3C,train,location-group-010,train-00000-of-00009.parquet,126,5402400C,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",60600
+BE3C,train,location-group-010,train-00000-of-00009.parquet,127,5402400D,whoi0039,1954-07-18T00:00:00Z,"Trinity Bay, Newfoundland","48,-53",60600
+BE3C,train,location-group-006,train-00000-of-00009.parquet,333,56034001,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,334,56034002,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,335,56034003,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,336,56034004,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,337,56034005,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,338,56034006,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,339,56034007,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,340,56034008,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,341,56034009,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,342,5603400A,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,343,5603400B,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,344,5603400C,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,345,5603400D,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,346,5603400E,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,347,5603400F,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,348,5603400G,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",30000
+BE3C,train,location-group-006,train-00000-of-00009.parquet,349,56035001,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",25900
+BE3C,train,location-group-006,train-00000-of-00009.parquet,350,56035002,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",25900
+BE3C,train,location-group-006,train-00000-of-00009.parquet,351,56035003,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",25900
+BE3C,train,location-group-006,train-00000-of-00009.parquet,352,56035004,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",25900
+BE3C,train,location-group-006,train-00000-of-00009.parquet,353,56035005,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",25900
+BE3C,train,location-group-006,train-00000-of-00009.parquet,354,56035006,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",25900
+BE3C,train,location-group-006,train-00000-of-00009.parquet,355,56035007,whoi0039,1956-09-20T00:00:00Z,"Northern edge of Georges Bank, western North Atlantic","42,-67",25900
+BE3C,train,location-group-003,train-00000-of-00009.parquet,799,58001001,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,800,58001002,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,801,58001003,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,802,58001004,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,803,58001005,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,804,58001006,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,805,58001007,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,806,58001008,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,807,58001009,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,808,5800100A,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,809,5800100B,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,810,5800100C,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,811,5800100D,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,812,5800100E,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,813,5800100F,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,814,5800100G,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,815,5800100H,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,816,5800100I,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,817,5800100J,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,818,5800100K,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,819,5800100L,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,820,5800100M,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,821,5800100N,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,822,5800100O,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,823,5800100P,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,824,5800100Q,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,825,5800100R,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,826,5800100S,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,827,5800100T,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,828,5800100U,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,829,5800100V,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,830,5800100W,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,831,5800100X,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,832,5800100Y,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,833,5800100Z,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,834,58001010,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,835,58001011,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,836,58001012,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,837,58001013,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,838,58001014,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,839,58001015,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,840,58001016,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,841,58001017,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,842,58001018,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,843,58001019,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,844,5800101A,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-003,train-00000-of-00009.parquet,845,5800101B,whoi0039,1958-08-05T00:00:00Z,,"39,-72",40000
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1332,58037001,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1333,58037002,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1334,58037003,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1335,58037004,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1336,58037005,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1337,58037006,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1338,58037007,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1339,58037008,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1340,58037009,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1341,5803700A,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1342,5803700B,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1343,5803700C,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1344,5803700D,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1345,5803700E,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1346,5803700F,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1347,5803700G,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1348,5803700H,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1349,5803700I,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1350,5803700J,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",40960
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1351,5803700K,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1352,5803700L,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1353,5803700M,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1354,5803700N,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1355,5803700O,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1356,5803700P,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1357,5803700Q,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1358,5803700R,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1359,5803700S,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1360,5803700T,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1361,5803700U,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1362,5803700V,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1363,5803700X,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1364,5803700Y,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1365,5803700Z,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1366,58037010,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1367,58037011,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1368,58037012,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1369,58037013,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1370,58037014,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1371,58037015,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1372,58037016,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1373,58037017,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1374,58037018,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1375,58037019,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1376,5803701A,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1377,5803701B,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1378,5803701C,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1379,5803701D,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1380,5803701E,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1381,5803701F,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1382,5803701G,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1383,5803701H,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1384,5803701I,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-001,train-00000-of-00009.parquet,1385,5803701J,whoi0039,1958-08-02T00:00:00Z,90 miles E of Gibraltar,"36,-4",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,970,75004001,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,971,75004002,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,972,75004003,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,973,75004004,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,974,75004005,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,975,75004006,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,976,75004007,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,977,75004008,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,978,75004009,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,979,7500400A,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,980,7500400B,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,981,7500400C,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,982,7500400E,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,983,7500400F,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,984,7500400G,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,985,7500400H,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,986,7500400I,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,987,7500400J,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,988,7500400K,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,989,7500400L,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,990,7500400M,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,991,7500400N,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,992,7500400O,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,993,7500400P,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,994,7500400Q,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,995,7500400R,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,996,7500400S,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,997,7500400T,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,998,7500400U,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,999,7500400V,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1000,7500400W,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1001,7500400X,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1002,7500400Y,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1003,7500400Z,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1004,75004010,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1005,75004011,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1006,75004012,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1007,75004013,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1008,75004014,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1009,75004015,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1010,75004016,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1011,75004017,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1012,75004018,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1013,75004019,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1014,7500401A,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1015,7500401B,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1016,7500401C,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1017,7500401D,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1018,7500401E,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1019,7500401F,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1020,7500401G,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1021,7500401H,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1022,7500401I,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1023,7500401J,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1024,7500401K,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1025,7500401L,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1026,7500401M,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1027,7500401N,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1028,7500401O,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1029,7500401P,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1030,7500401Q,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1031,7500401R,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1032,7500401S,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1033,7500401T,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1034,7500401U,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1035,7500401V,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1036,7500401W,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1037,7500401X,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1038,7500401Y,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1039,7500401Z,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1040,75004020,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1041,75004021,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1042,75004022,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1043,75004023,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1044,75004024,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1045,75004025,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1046,75004026,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1047,75004027,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1048,75004028,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1049,75004029,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1050,7500402A,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1051,7500402B,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1052,7500402C,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1053,7500402D,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1054,7500402E,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1055,7500402F,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1056,7500402G,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1057,7500402H,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1058,7500402I,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1059,7500402J,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1060,7500402K,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1061,7500402L,whoi0039,1975-09-08T00:00:00Z,SE Sable Islandx,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1062,7500402M,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1063,7500402N,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1064,7500402O,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1065,7500402P,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1066,7500402Q,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1067,7500402R,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1068,7500402S,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1069,7500402T,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1070,7500402U,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1071,7500402V,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1072,7500402W,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1073,7500402X,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1074,7500402Y,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1075,7500402Z,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1076,75004030,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1077,75004031,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1078,75004032,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1079,75004033,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1080,75004034,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1081,75004035,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1082,75004036,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1083,75004037,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1084,75004038,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1085,75004039,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1086,7500403A,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1087,7500403B,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1088,7500403C,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1089,7500403D,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1090,7500403E,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1091,7500403F,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1092,7500403G,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1093,7500403H,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1094,7500403I,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1095,7500403J,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1096,7500403K,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1097,7500403L,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1098,7500403M,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1099,7500403N,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1100,7500403O,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1101,7500403P,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1102,7500403Q,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1103,7500403R,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1104,7500403S,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1105,7500403T,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1106,7500403U,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1107,7500403V,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1108,7500403W,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1109,7500403X,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1110,7500403Y,whoi0039,1975-09-08T00:00:00Z,SE Sable Island,"43,-59",81600
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1111,75005001,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1112,75005002,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1113,75005003,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1114,75005004,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1115,75005005,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1116,75005006,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1117,75005007,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1118,75005008,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1119,75005009,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1120,7500500A,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1121,7500500B,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1122,7500500C,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1123,7500500D,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1124,7500500E,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1125,7500500F,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1126,7500500G,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1127,7500500H,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1128,7500500I,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1129,7500500J,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1130,7500500K,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1131,7500500L,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1132,7500500M,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1133,7500500N,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1134,7500500O,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1135,7500500P,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1136,7500500Q,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1137,7500500R,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1138,7500500S,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1139,7500500T,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1140,7500500U,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1141,7500500V,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1142,7500500W,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1143,7500500X,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1144,7500500Y,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1145,7500500Z,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1146,75005010,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1147,75005011,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1148,75005012,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1149,75005013,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1150,75005014,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1151,75005015,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1152,75005017,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1153,75005018,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1154,75005019,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1155,7500501A,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1156,7500501B,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1157,7500501C,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1158,7500501D,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1159,7500501E,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1160,7500501F,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1161,7500501G,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1162,7500501H,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1163,7500501I,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1164,7500501J,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1165,7500501K,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1166,7500501L,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1167,7500501M,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1168,7500501N,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1169,7500501O,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1170,7500501P,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1171,7500501Q,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1172,7500501R,whoi0039,1975-09-08T00:00:00Z,"Gully, SE Sable I., Canada","43,-59",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1196,7500502J,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1197,7500502K,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1198,7500502L,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1199,7500502M,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1200,7500502N,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1201,7500502O,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1202,7500502P,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1203,7500502Q,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1204,7500502R,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1205,7500502S,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1206,7500502T,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1207,7500502U,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1208,7500502V,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1209,7500502W,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1210,7500502X,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1211,7500502Y,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1212,7500502Z,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1213,75005030,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1214,75005031,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1215,75005032,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1216,75005033,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1217,75005034,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1218,75005035,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1219,75005036,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1220,75005037,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1221,75005038,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1222,75005039,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1223,7500503A,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1224,7500503B,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1225,7500503C,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1226,7500503D,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1227,7500503E,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1228,7500503F,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1229,7500503G,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1230,7500503H,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1231,7500503I,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-007,train-00003-of-00009.parquet,1234,7500503L,whoi0039,1975-09-10T00:00:00Z,"Gully, SE Sable I., Canada","43,-58",80000
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1298,75010001,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1299,75010002,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1300,75010003,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1301,75010004,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1302,75010005,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1303,75010006,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1304,75010007,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1305,75010008,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1306,75010009,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1307,7501000A,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1308,7501000B,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1309,7501000C,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1310,7501000D,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1311,7501000E,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1312,7501000F,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1313,7501000G,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1314,7501000H,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1315,7501000I,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1316,7501000J,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1317,7501000K,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1318,7501000L,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1319,7501000M,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1320,7501000N,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1321,7501000O,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1322,7501000P,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1323,7501000Q,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1324,7501000R,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1325,7501000S,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1326,7501000T,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1327,7501000U,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1328,7501000V,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1329,7501000W,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1330,7501000X,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1331,7501000Y,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1332,7501000Z,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1333,75010010,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1334,75010011,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1335,75010012,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1336,75010013,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1337,75010014,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1338,75010015,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1339,75010016,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1340,75010017,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1341,75010018,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1342,75010019,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1343,7501001A,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1344,7501001B,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1345,7501001C,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1346,7501001D,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1347,7501001E,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1348,7501001F,whoi0039,1975-09-12T00:00:00Z,Western North Atlantic,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1360,75011007,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1363,7501100A,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1369,7501100G,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1370,7501100H,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1371,7501100I,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1372,7501100J,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1373,7501100K,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1374,7501100L,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1375,7501100M,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1376,7501100N,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1377,7501100O,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1378,7501100P,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1379,7501100Q,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1380,7501100R,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1381,7501100S,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1382,7501100T,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1383,7501100U,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1384,7501100V,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1385,7501100W,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1386,7501100X,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1387,7501100Y,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1388,7501100Z,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1389,75011010,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1390,75011011,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1391,75011012,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1394,75011015,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1395,75011016,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1396,75011017,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1397,75011018,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1398,75011019,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1399,7501101A,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1400,7501101B,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1401,7501101C,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1402,7501101D,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1403,7501101E,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1404,7501101F,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1405,7501101G,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1408,7501101J,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1423,7501101Y,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1424,7501101Z,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1425,75011020,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1439,7501102E,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1440,7501102F,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1441,7501102G,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1445,7501102K,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1446,7501102L,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1447,7501102M,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1448,7501102N,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1449,7501102O,whoi0039,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1450,7501102P,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1451,7501102Q,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1452,7501102R,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1453,7501102S,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1454,7501102T,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1455,7501102U,whoi0039,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1456,7501102V,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1457,7501102W,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1458,7501102X,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1459,7501102Y,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1460,7501102Z,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1461,75011030,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1462,75011031,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1463,75011032,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1464,75011033,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1465,75011034,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1466,75011035,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1467,75011036,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1468,75011037,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1469,75011038,whoi0039,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1470,75011039,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1471,7501103A,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1472,7501103B,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1473,7501103C,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1474,7501103D,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1475,7501103E,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1476,7501103F,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1477,7501103G,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1478,7501103H,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1479,7501103I,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1480,7501103J,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1481,7501103K,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1482,7501103L,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1483,7501103M,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1484,7501103N,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1485,7501103O,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1486,7501103P,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1487,7501103Q,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1488,7501103R,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1489,7501103S,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1490,7501103T,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1491,7501103U,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1492,7501103V,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1493,7501103W,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1494,7501103X,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1495,7501103Y,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1496,7501103Z,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1497,75011040,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1498,75011041,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1499,75011042,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1500,75011043,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1501,75011044,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1502,75011045,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1503,75011046,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1504,75011047,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1505,75011048,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1506,75011049,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1507,7501104A,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1508,7501104B,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1509,7501104C,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1510,7501104D,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1511,7501104E,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1512,7501104F,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1513,7501104G,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1514,7501104H,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1515,7501104I,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1516,7501104J,whoi0051,1975-09-12T00:00:00Z,,"42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1517,7501104K,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1518,7501104L,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1519,7501104M,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1520,7501104N,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1521,7501104O,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1522,7501104P,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1523,7501104Q,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1524,7501104R,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1525,7501104S,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1526,7501104T,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1527,7501104U,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1528,7501104V,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1529,7501104W,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1530,7501104X,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1531,7501104Y,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1532,7501104Z,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1533,75011050,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1534,75011051,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1535,75011052,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1536,75011053,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1537,75011054,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1538,75011055,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1539,75011056,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1540,75011057,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1541,75011058,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1542,75011059,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1543,7501105A,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1544,7501105B,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1545,7501105C,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1546,7501105D,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1547,7501105E,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1548,7501105F,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1549,7501105G,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1550,7501105H,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1551,7501105I,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1552,7501105J,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1553,7501105K,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1554,7501105L,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1555,7501105M,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1556,7501105N,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1557,7501105O,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1558,7501105P,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1559,7501105Q,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1560,7501105R,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1561,7501105S,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1562,7501105T,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1563,7501105U,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1564,7501105V,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1565,7501105W,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1566,7501105X,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1567,7501105Y,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1568,7501105Z,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1569,75011060,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1570,75011061,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1571,75011062,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1572,75011063,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1573,75011064,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1574,75011065,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1575,75011066,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1576,75011067,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1577,75011068,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1578,75011069,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1579,7501106A,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1580,7501106B,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1581,7501106C,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1582,7501106D,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1583,7501106E,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1584,7501106F,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1585,7501106G,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1586,7501106H,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1587,7501106I,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1588,7501106J,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1589,7501106K,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1590,7501106L,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1591,7501106M,whoi0039,1975-09-12T00:00:00Z,,"42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1592,75012001,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1593,75012002,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1594,75012003,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1595,75012004,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1596,75012005,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1597,75012006,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1598,75012007,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1599,75012008,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1600,75012009,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1601,7501200A,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1602,7501200B,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1603,7501200C,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1604,7501200D,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1605,7501200E,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1606,7501200F,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1607,7501200G,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1608,7501200H,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1609,7501200I,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1610,7501200J,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1611,7501200K,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1612,7501200L,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1613,7501200M,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1614,7501200N,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1615,7501200O,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1616,7501200P,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1617,7501200Q,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1618,7501200R,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1619,7501200S,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1620,7501200T,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1621,7501200U,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1622,7501200V,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1623,7501200W,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1624,7501200X,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1625,7501200Y,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1626,7501200Z,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1627,75012010,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1628,75012011,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1629,75012012,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1630,75012013,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1631,75012014,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1632,75012015,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1633,75012016,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1634,75012017,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1635,75012018,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1636,75012019,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1637,7501201A,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1638,7501201B,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1639,7501201C,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1640,7501201D,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1641,7501201E,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1642,7501201F,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1643,7501201G,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1644,7501201H,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1645,7501201I,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1646,7501201J,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1647,7501201K,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1648,7501201L,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1649,7501201M,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1650,7501201N,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1651,7501201O,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1652,7501201P,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1653,7501201Q,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1654,7501201R,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1655,7501201S,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1656,7501201T,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1657,7501201U,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1658,7501201V,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1659,7501201W,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1660,7501201X,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1661,7501201Y,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1662,7501201Z,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1663,75012020,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1664,75012021,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1665,75012022,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1666,75012023,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1667,75012024,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1668,75012025,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1669,75012026,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1670,75012027,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1671,75012028,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1672,75012029,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1673,7501202A,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1674,7501202B,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1675,7501202C,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1676,7501202D,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1677,7501202E,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1678,7501202F,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1679,7501202G,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1680,7501202H,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1681,7501202I,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1682,7501202J,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1683,7501202K,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1684,7501202L,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1685,7501202M,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1686,7501202N,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1687,7501202O,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1688,7501202P,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1689,7501202Q,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1690,7501202R,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1691,7501202S,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1692,7501202T,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00003-of-00009.parquet,1693,7501202U,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,0,7501202V,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,1,7501202W,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,2,7501202X,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,3,7501202Y,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,4,7501202Z,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,5,75012030,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,6,75012031,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,7,75012032,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,8,75012033,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,9,75012034,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,10,75012035,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,11,75012036,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,12,75012037,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,13,75012038,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,14,75012039,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,15,7501203A,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,16,7501203B,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,17,7501203C,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,18,7501203D,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,19,7501203E,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,20,7501203F,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,21,7501203G,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,22,7501203H,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,23,7501203I,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,24,7501203J,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,25,7501203K,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,26,7501203L,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,27,7501203M,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,28,7501203N,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,29,7501203O,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,30,7501203P,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,31,7501203Q,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,32,7501203R,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,33,7501203S,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,34,7501203T,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,35,7501203U,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,36,7501203V,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,37,7501203W,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,38,7501203X,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,39,7501203Y,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,40,7501203Z,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,41,75012040,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,42,75012041,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,43,75012042,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,44,75012043,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,45,75012044,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,46,75012045,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,47,75012046,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,48,75012047,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,49,75012048,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,50,75012049,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,51,7501204A,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,52,7501204B,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,53,7501204C,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,54,7501204D,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,55,7501204E,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,56,7501204F,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,57,7501204G,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,58,7501204H,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,59,7501204I,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,60,7501204J,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,61,7501204K,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,62,7501204L,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,63,7501204M,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,64,7501204N,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,65,7501204O,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,66,7501204P,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,67,7501204Q,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,68,7501204R,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,69,7501204T,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,70,7501204U,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,71,7501204V,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,72,7501204W,whoi0051,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,73,7501204X,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,74,7501204Y,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,75,7501204Z,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,76,75012050,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,77,75012051,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,78,75012052,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,79,75012053,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,80,75012054,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,81,75012055,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,82,75012056,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,83,75012057,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,84,75012058,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,85,75012059,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,86,7501205A,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,87,7501205B,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,88,7501205C,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,89,7501205D,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,90,7501205E,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,91,7501205F,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,92,7501205G,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,93,7501205H,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,94,7501205I,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,95,7501205J,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,96,7501205K,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,97,7501205L,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,98,7501205M,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,99,7501205N,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,100,7501205O,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,101,7501205P,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,102,7501205Q,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,103,7501205R,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,104,7501205S,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,105,7501205T,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,106,7501205U,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,107,7501205V,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,108,7501205W,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,109,7501205X,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,110,7501205Y,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,111,7501205Z,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,112,75012060,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,113,75012061,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,114,75012062,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,115,75012063,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,116,75012064,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,117,75012065,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,118,75012066,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,119,75012067,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,120,75012068,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,121,75012069,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,122,7501206A,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,123,7501206B,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,124,7501206C,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,125,7501206D,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,126,7501206E,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,127,7501206F,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,128,7501206G,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,129,7501206H,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,130,7501206I,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,131,7501206J,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,132,7501206K,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,133,7501206L,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,134,7501206M,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,135,7501206N,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,136,7501206O,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,137,7501206P,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,138,7501206Q,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,139,7501206R,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,140,7501206S,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,141,7501206T,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,142,7501206U,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,143,7501206V,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,144,7501206W,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,145,7501206X,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,146,7501206Y,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,147,7501206Z,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,148,75012070,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,149,75012071,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,150,75012072,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,151,75012073,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,152,75012074,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,153,75012075,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,154,75012076,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,155,75012077,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,156,75012078,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,157,75012079,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61 | 42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,158,7501207A,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,159,7501207B,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,160,7501207C,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,train,location-group-005,train-00004-of-00009.parquet,161,7501207D,whoi0039,1975-09-12T00:00:00Z,"South of Sable Island, North Atlantic","42,-61",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,437,77026001,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,438,77026002,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,439,77026003,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,440,77026004,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,441,77026005,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,442,77026006,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,443,77026007,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,444,77026008,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,445,77026009,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,446,7702600A,whoi0039,1977-10-08T00:00:00Z,W of Browns Bank,"43,-62",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,447,77028001,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,448,77028002,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,449,77028003,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,450,77028004,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,451,77028005,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,452,77028006,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,453,77028007,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,454,77028008,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,455,77028009,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,456,7702800A,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,457,7702800F,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,458,7702800H,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,459,7702800I,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,460,7702800M,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,461,7702800N,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,462,7702800O,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,463,7702800P,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,464,7702800Q,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,465,7702800S,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,466,7702800T,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,467,7702800U,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,468,7702800V,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,469,7702800W,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,470,7702800X,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,471,7702800Y,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,472,7702800Z,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,473,77028010,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,474,77028011,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,475,77028012,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,476,77028013,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,477,77028015,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,478,77028016,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,479,77028017,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,480,77028018,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,481,77028019,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,482,7702801A,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,483,7702801C,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,484,7702801D,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,485,7702801E,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,486,7702801F,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,487,7702801G,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,488,7702801J,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,489,7702801K,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,490,7702801L,whoi0039,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,491,7702801M,whoi0051,1977-10-11T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,492,77034001,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,493,77034002,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,494,77034003,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,495,77034004,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,496,77034005,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,497,77034006,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,498,77034007,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,499,77034008,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,500,77034009,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,501,7703400A,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,502,7703400B,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,503,7703400C,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,504,7703400D,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,505,7703400E,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,506,7703400F,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,507,7703400G,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,508,7703400H,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,509,7703400I,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,510,7703400J,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,511,7703400K,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,512,7703400L,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,513,7703400M,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,514,7703400N,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,515,7703400O,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,516,7703400P,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,517,7703400Q,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,518,7703400R,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,519,7703400S,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,520,7703400T,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",81920
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,521,7703400U,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",60600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,522,7703400V,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",60600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,523,7703400W,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",60600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,524,77035001,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,525,77035002,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,526,77035003,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,527,77035004,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,528,77035005,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,529,77035006,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,530,77035007,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,531,77035008,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,532,77035009,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,533,7703500A,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,534,7703500B,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,535,7703500C,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,536,7703500D,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,537,7703500E,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,538,7703500F,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,539,7703500G,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,540,7703500H,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,541,7703500I,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,542,7703500J,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,543,7703500K,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,544,7703500L,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,545,7703500M,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,546,7703500N,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,547,7703500O,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,548,7703500P,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,549,7703500Q,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,550,7703500R,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,551,7703500S,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,552,7703500T,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,553,7703500U,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,554,7703500V,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,555,7703500W,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,556,7703500X,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,557,7703500Y,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,558,7703500Z,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,559,77035010,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,560,77035011,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,561,77035012,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,562,77035013,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,563,77035014,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,564,77035015,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,565,77035016,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,566,77035017,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,567,77035018,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,568,77035019,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,569,7703501A,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,570,7703501B,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,571,7703501C,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,572,7703501D,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,573,7703501E,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,574,7703501F,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,575,7703501G,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,576,7703501H,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,577,7703501I,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,578,7703501J,whoi0051,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66 | 41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,579,7703501K,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,580,7703501L,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,581,7703501M,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,582,7703501N,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,583,7703501O,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,584,7703501P,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,585,7703501Q,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,586,7703501R,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,587,7703501S,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,588,7703501T,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,589,7703501U,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,590,7703501V,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,591,7703501W,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,592,7703501X,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,593,7703501Y,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,594,7703501Z,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,595,77035020,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,596,77035021,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,597,77035022,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,598,77035023,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,599,77035024,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,600,77035025,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,601,77035026,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,602,77035027,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,603,77035028,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,604,77035029,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,605,7703502A,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,606,7703502B,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,607,7703502C,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,validation,location-group-004,train-00004-of-00009.parquet,608,7703502D,whoi0039,1977-10-12T00:00:00Z,W of Browns Bank,"41,-66",166600
+BE3C,train,location-group-011,train-00007-of-00009.parquet,59,91772001,whoi0039,1991-09-30T00:00:00Z,"Sasuit Harbor, Dennis, Cape Cod MA",,40960
+BE3C,train,location-group-011,train-00007-of-00009.parquet,60,91772002,whoi0039,1991-09-30T00:00:00Z,"Sasuit Harbor, Dennis, Cape Cod MA",,40960
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1582,9420107O,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1583,9420107P,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1584,9420107Q,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1585,9420107R,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1586,9420107S,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1587,9420107T,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1588,9420107U,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1589,9420107V,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1590,9420107W,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1591,9420107X,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1592,9420107Y,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1593,9420107Z,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1594,94201080,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1595,94201081,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1596,94201082,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1597,94201083,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1598,94201084,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1599,94201085,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1600,94201086,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1601,94201087,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1602,94201088,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1603,94201089,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1604,9420108A,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1605,9420108B,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1606,9420108C,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1607,9420108D,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1608,9420108E,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1609,9420108F,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1610,9420108G,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1611,9420108H,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1612,9420108I,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1613,9420108J,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1614,9420108K,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1615,9420108L,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1616,9420108M,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600
+BE3C,train,location-group-008,train-00007-of-00009.parquet,1617,9420108N,whoi0039,1988-07-26T00:00:00Z,"Near San Remo, Italy","43,8",47600

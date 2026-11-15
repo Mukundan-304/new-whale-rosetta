@@ -1,0 +1,20 @@
+{
+  "model_id": "laion/clap-htsat-unfused",
+  "random_seed": 29,
+  "batch_size": 8,
+  "epochs": 3,
+  "early_stopping_patience": 2,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "temperature": 0.1,
+  "projection_hidden_dim": 512,
+  "projection_dim": 128,
+  "shuffle_buffer_size": 128,
+  "mixed_precision": true,
+  "augmentations": {
+    "max_time_shift_ms": 50.0,
+    "gain_db": 2.0,
+    "min_noise_snr_db": 35.0,
+    "max_noise_snr_db": 40.0
+  }
+}

@@ -1,0 +1,21 @@
+metric_group,metric_name,value,unit,description
+species_location_confounding,cramer_v,0.9303836202800971,ratio [0-1],Cramer's V association between species label and recording location domain.
+species_location_confounding,nmi,0.7713086638845762,ratio [0-1],Normalized Mutual Information between species label and recording location domain.
+species_location_confounding,ari,0.6133083187866898,index [-1 to 1],Adjusted Rand Index between species label and recording location domain.
+species_location_confounding,single_location_species_pct,26.41509433962264,percent,Percentage of species that appear in only one location domain.
+species_location_confounding,single_species_location_pct,85.18518518518519,percent,Percentage of location domains where only one species was recorded.
+species_location_confounding,top_location_share_pct,30.429383388260018,percent,Share of total segments from the single largest recording location (Dominica).
+species_location_confounding,top_5_locations_share_pct,45.441085160242636,percent,Share of total segments from the top 5 recording locations combined.
+cluster_location_alignment,cluster_location_nmi,0.6858230401148273,ratio [0-1],NMI between Stage 6 HDBSCAN acoustic clusters and recording location domain.
+cluster_location_alignment,cluster_location_ari,0.15113182283245633,index [-1 to 1],ARI between Stage 6 HDBSCAN acoustic clusters and recording location domain.
+novelty_location_distribution,kruskal_wallis_h,3721.6202324594183,statistic,Kruskal-Wallis H statistic testing novelty score equality across top 10 locations.
+novelty_location_distribution,kruskal_wallis_p,0.0,p-value,P-value of Kruskal-Wallis test across top 10 locations.
+controlled_pairwise_representation,same_species_same_location_mean_cosine,0.6897,cosine similarity [-1 to 1],Mean cosine similarity for pairs of the same species recorded at the same location (distinct recordings).
+controlled_pairwise_representation,same_species_diff_location_mean_cosine,0.5075,cosine similarity [-1 to 1],Mean cosine similarity for pairs of the same species recorded at different locations (distinct recordings).
+controlled_pairwise_representation,diff_species_same_location_mean_cosine,0.5086,cosine similarity [-1 to 1],Mean cosine similarity for pairs of different species recorded at the same location (distinct recordings).
+controlled_pairwise_representation,diff_species_diff_location_mean_cosine,0.3216,cosine similarity [-1 to 1],Mean cosine similarity for baseline pairs differing in both species and location.
+controlled_pairwise_representation,intra_species_location_gap,0.1823,delta cosine,Drop in mean cosine similarity when the same species is recorded across different locations (environmental decay).
+controlled_pairwise_representation,inter_species_location_boost,0.187,delta cosine,Increase in mean cosine similarity when two different species share a recording location (environmental acoustic pull).
+controlled_pairwise_representation,same_species_same_channel_mean_cosine,0.6658,cosine similarity [-1 to 1],Mean cosine similarity for pairs of the same species recorded on the same archival tape channel code.
+controlled_pairwise_representation,same_species_diff_channel_mean_cosine,0.4886,cosine similarity [-1 to 1],Mean cosine similarity for pairs of the same species recorded on different archival tape channel codes.
+controlled_pairwise_representation,channel_gap_mean,0.1772,delta cosine,Drop in mean cosine similarity when the same species is recorded on different channel codes.

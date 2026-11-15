@@ -1,0 +1,3 @@
+﻿split,record_number,parquet_file,parquet_row_index,location_group,location_names,location_coordinates,recording_duration_seconds,preview_duration_seconds,sample_rate,wav_file
+train,75011015,train-00003-of-00009.parquet,1394,location-group-005,,"42,-61",2.5112124849939974,2.5112124849939974,166600,train_75011015.wav
+validation,77034001,train-00004-of-00009.parquet,492,location-group-004,W of Browns Bank,"41,-66",0.65390625,0.65390625,81920,validation_77034001.wav

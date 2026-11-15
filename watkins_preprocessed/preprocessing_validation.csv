@@ -1,0 +1,18 @@
+﻿metric,value,details
+parquet_shards,9,D:\marine\watkins-marine-mammal-full-cuts\data
+recordings_with_processed_segments,15248,Unique source recordings represented in segment manifest
+segment_count,29932,Fixed window 5 seconds
+recordings_shorter_than_window,13455,"Short recordings are zero-padded, not discarded"
+recordings_longer_than_window,1793,Long recordings are split into consecutive non-overlapping windows
+padded_segments,15246,Only the final partial window or short recording is padded
+processing_failures,0,D:\marine\watkins_preprocessed\processing_errors.csv
+source_sample_rate_metadata_mismatches,74,Actual decoded file header rate was used
+target_sample_rate_hz,192000,96 kHz Nyquist preserves frequencies through 96 kHz
+segment_samples,960000,Fixed-length analysis window
+n_fft,4096,Frequency-bin spacing 46.88 Hz
+hop_length,1024,Frame hop 5.33 ms
+n_mels,128,Mel range 20-96000 Hz
+feature_shape,128x934,Stored as float16
+actual_source_sample_rates_hz,44,"{""320"": 42, ""500"": 4, ""600"": 277, ""640"": 258, ""1000"": 12, ""1280"": 19, ""2000"": 4, ""2560"": 50, ""3400"": 15, ""5000"": 26, ""5120"": 128, ""8000"": 92, ""10000"": 707, ""10200"": 77, ""10240"": 276, ""14900"": 572, ""15000"": 15, ""16000"": 34, ""18000"": 9, ""20000"": 343, ""20480"": 176, ""21900"": 1941, ""23500"": 14, ""25900"": 7, ""30000"": 371, ""40000"": 1127, ""40800"": 14, ""40960"": 163, ""41600"": 76, ""42100"": 1, ""43900"": 185, ""44100"": 10, ""45400"": 340, ""47600"": 362, ""55500"": 155, ""60600"": 769, ""80000"": 1609, ""81600"": 1271, ""81920"": 1365, ""100000"": 147, ""148100"": 519, ""160000"": 37, ""166600"": 1450, ""192000"": 179}"
+cache_partitions_written_this_run,504,Unchanged partitions were skipped using source stat and configuration fingerprints
+cache_partitions_reused,0,"Partition feature, metadata, error log and cache marker all matched"

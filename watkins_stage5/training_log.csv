@@ -1,0 +1,4 @@
+epoch,train_loss,validation_loss,train_samples,validation_samples,train_seconds,validation_seconds,cuda_peak_allocated_mib,best_epoch
+1,0.30899217,1.22599465,21191,4479,1959.48,356.72,959.52,1
+2,0.26604741,1.11456046,21191,4479,4504.31,372.18,959.52,2
+3,0.24943935,1.06045793,21191,4479,3596.86,623.66,959.52,3

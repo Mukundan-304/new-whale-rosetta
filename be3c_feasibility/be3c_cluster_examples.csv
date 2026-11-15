@@ -1,0 +1,12 @@
+﻿representation,split,cluster,record_number,location_group,source_sample_rate_hz,distance_to_train_centroid,wav_file
+clap,train,0,5800100V,location-group-003,40000,0.46351298689842224,record_5800100V.wav
+clap,validation,0,77028012,location-group-004,81920,0.5829849243164062,record_77028012.wav
+clap,train,1,7501103A,location-group-005,166600,0.32235389947891235,record_7501103A.wav
+clap,validation,1,7703500G,location-group-004,166600,0.4226062595844269,record_7703500G.wav
+clap,validation,1,5400401H,location-group-009,30000,0.6247847080230713,record_5400401H.wav
+full_band,train,0,7501201Q,location-group-005,166600,2.535541534423828,record_7501201Q.wav
+full_band,validation,0,77028019,location-group-004,81920,6.148342132568359,record_77028019.wav
+full_band,validation,0,5400400N,location-group-009,30000,9.668659210205078,record_5400400N.wav
+full_band,train,1,7501206N,location-group-005,166600,2.489288568496704,record_7501206N.wav
+full_band,validation,1,77034007,location-group-004,81920,3.5282223224639893,record_77034007.wav
+full_band,validation,1,5400401F,location-group-009,30000,6.461316108703613,record_5400401F.wav

@@ -1,0 +1,31 @@
+{
+  "all_finite": true,
+  "all_l2_normalized": true,
+  "completed_at_utc": "2026-11-12T15:28:26.275405+00:00",
+  "cuda_peak_memory_bytes": 720559616,
+  "device": "cuda",
+  "distinct_recording_ids": 24,
+  "distinct_segment_ids": 24,
+  "embedding_shape": [
+    24,
+    512
+  ],
+  "model_id": "laion/clap-htsat-unfused",
+  "per_split_segments": {
+    "test": 8,
+    "train": 8,
+    "validation": 8
+  },
+  "resources": {
+    "gpu_memory_used_peak_bytes": 909115392,
+    "gpu_utilization_percent_max": 13,
+    "gpu_utilization_percent_mean": 13.0,
+    "gpu_utilization_samples": 1,
+    "process_cpu_percent_max": 80.9,
+    "process_cpu_percent_mean": 80.9,
+    "process_rss_peak_bytes": 2811514880,
+    "system_available_ram_min_bytes": 8788611072
+  },
+  "smoke_segments": 24,
+  "status": "passed"
+}

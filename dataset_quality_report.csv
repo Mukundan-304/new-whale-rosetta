@@ -1,0 +1,33 @@
+﻿metric,value,details
+parquet_shards,9,D:\marine\watkins-marine-mammal-full-cuts\data
+total_records,15248,
+species_label_groups_including_unlabeled,57,Includes unlabeled groups split by display name
+distinct_primary_species_labels,53,species_code
+unlabeled_display_name_groups,4,Not included in species count-based imbalance tiers
+primary_label_column,species_code,
+audio_column,audio,
+missing_species_labels,140,No primary or fallback species label
+missing_primary_labels,0,Fallback scientific/common name used
+duplicate_record_ids,0,Repeated values in record_number
+duplicate_audio_payloads,13,Exact SHA-256 matches; source rows retained
+sample_rate_mismatches,74,Decoded rate differs from metadata
+audio_valid,15248,
+audio_missing,0,
+audio_empty,0,
+audio_corrupt,0,
+audio_unresolved_path,0,
+audio_unsupported,0,
+audio_missing_sample_rate,0,
+audio_representation_bytes,15248,
+records_with_dates,14497,observation_date
+records_with_locations,15207,location.name or location.coordinates
+records_with_sample_rates,15243,sound.sample_rate
+records_with_recording_sources,0,
+records_with_location_names,13348,location.name
+records_with_location_coordinates,13904,location.coordinates
+records_with_channel_recorded,12731,sound.channel.recorded
+records_with_channel_multiplexed,12731,sound.channel.multiplexed
+records_with_channel_side,12731,sound.channel.side
+records_with_channel_source_code,15240,sound.channel._source_nc
+duration_known_records,15248,Decoded from audio payload; audio metadata cut_size was not used
+total_audio_duration_seconds,101662.660265,Sum of successfully decoded durations

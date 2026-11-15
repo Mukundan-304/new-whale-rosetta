@@ -1,0 +1,25 @@
+{
+  "random_state": 29,
+  "fit_split": "train",
+  "expected_embedding_dim": 512,
+  "umap_clustering": {
+    "n_components": 15,
+    "n_neighbors": 30,
+    "min_dist": 0.0,
+    "metric": "cosine"
+  },
+  "umap_visualization": {
+    "n_components": 2,
+    "n_neighbors": 15,
+    "min_dist": 0.1,
+    "metric": "cosine"
+  },
+  "hdbscan": {
+    "min_cluster_size": 50,
+    "min_samples": 10,
+    "metric": "euclidean",
+    "cluster_selection_method": "eom"
+  },
+  "silhouette_sample_size": 3000,
+  "representatives_per_cluster": 3
+}

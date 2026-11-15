@@ -1,0 +1,1055 @@
+{
+  "status": "complete",
+  "started_at_utc": "2026-11-13T14:45:25.589006+00:00",
+  "completed_at_utc": "2026-11-13T14:46:23.864069+00:00",
+  "execution_seconds": 58.275064700002986,
+  "fit_split": "train",
+  "validated_splits": {
+    "train": {
+      "segments": 21191,
+      "embedding_dim": 512,
+      "all_finite": true,
+      "input_l2_normalized": true,
+      "normalized_for_analysis": false,
+      "manifest_ids_match": true,
+      "stage4_completion_count": 21191,
+      "embedding_path": "D:\\marine\\watkins_stage4\\train\\embeddings.npy",
+      "metadata_path": "D:\\marine\\watkins_stage4\\train\\metadata.csv"
+    },
+    "validation": {
+      "segments": 4479,
+      "embedding_dim": 512,
+      "all_finite": true,
+      "input_l2_normalized": true,
+      "normalized_for_analysis": false,
+      "manifest_ids_match": true,
+      "stage4_completion_count": 4479,
+      "embedding_path": "D:\\marine\\watkins_stage4\\validation\\embeddings.npy",
+      "metadata_path": "D:\\marine\\watkins_stage4\\validation\\metadata.csv"
+    },
+    "test": {
+      "segments": 4262,
+      "embedding_dim": 512,
+      "all_finite": true,
+      "input_l2_normalized": true,
+      "normalized_for_analysis": false,
+      "manifest_ids_match": true,
+      "stage4_completion_count": 4262,
+      "embedding_path": "D:\\marine\\watkins_stage4\\test\\embeddings.npy",
+      "metadata_path": "D:\\marine\\watkins_stage4\\test\\metadata.csv"
+    }
+  },
+  "total_validated_segments": 29932,
+  "embedding_model": "laion/clap-htsat-unfused",
+  "embedding_dimensions": 512,
+  "config": {
+    "random_state": 29,
+    "fit_split": "train",
+    "expected_embedding_dim": 512,
+    "umap_clustering": {
+      "n_components": 15,
+      "n_neighbors": 30,
+      "min_dist": 0.0,
+      "metric": "cosine"
+    },
+    "umap_visualization": {
+      "n_components": 2,
+      "n_neighbors": 15,
+      "min_dist": 0.1,
+      "metric": "cosine"
+    },
+    "hdbscan": {
+      "min_cluster_size": 50,
+      "min_samples": 10,
+      "metric": "euclidean",
+      "cluster_selection_method": "eom"
+    },
+    "silhouette_sample_size": 3000,
+    "representatives_per_cluster": 3
+  },
+  "hdbscan_summary": {
+    "samples": 21191,
+    "cluster_count": 104,
+    "noise_count": 3342,
+    "noise_percentage": 15.770846113916285,
+    "assigned_count": 17849,
+    "assigned_percentage": 84.22915388608371,
+    "cluster_sizes": [
+      {
+        "cluster": 0,
+        "segments": 80,
+        "percentage": 0.3775187579632863
+      },
+      {
+        "cluster": 1,
+        "segments": 137,
+        "percentage": 0.6465008730121278
+      },
+      {
+        "cluster": 2,
+        "segments": 108,
+        "percentage": 0.5096503232504365
+      },
+      {
+        "cluster": 3,
+        "segments": 61,
+        "percentage": 0.2878580529470058
+      },
+      {
+        "cluster": 4,
+        "segments": 419,
+        "percentage": 1.977254494832712
+      },
+      {
+        "cluster": 5,
+        "segments": 1408,
+        "percentage": 6.644330140153839
+      },
+      {
+        "cluster": 6,
+        "segments": 360,
+        "percentage": 1.6988344108347884
+      },
+      {
+        "cluster": 7,
+        "segments": 193,
+        "percentage": 0.9107640035864282
+      },
+      {
+        "cluster": 8,
+        "segments": 65,
+        "percentage": 0.3067339908451701
+      },
+      {
+        "cluster": 9,
+        "segments": 95,
+        "percentage": 0.4483035250814025
+      },
+      {
+        "cluster": 10,
+        "segments": 211,
+        "percentage": 0.9957057241281676
+      },
+      {
+        "cluster": 11,
+        "segments": 69,
+        "percentage": 0.32560992874333444
+      },
+      {
+        "cluster": 12,
+        "segments": 133,
+        "percentage": 0.6276249351139634
+      },
+      {
+        "cluster": 13,
+        "segments": 90,
+        "percentage": 0.4247086027086971
+      },
+      {
+        "cluster": 14,
+        "segments": 66,
+        "percentage": 0.3114529753197112
+      },
+      {
+        "cluster": 15,
+        "segments": 72,
+        "percentage": 0.33976688216695766
+      },
+      {
+        "cluster": 16,
+        "segments": 81,
+        "percentage": 0.3822377424378274
+      },
+      {
+        "cluster": 17,
+        "segments": 424,
+        "percentage": 2.0008494172054174
+      },
+      {
+        "cluster": 18,
+        "segments": 100,
+        "percentage": 0.47189844745410786
+      },
+      {
+        "cluster": 19,
+        "segments": 59,
+        "percentage": 0.2784200839979237
+      },
+      {
+        "cluster": 20,
+        "segments": 224,
+        "percentage": 1.0570525222972016
+      },
+      {
+        "cluster": 21,
+        "segments": 184,
+        "percentage": 0.8682931433155585
+      },
+      {
+        "cluster": 22,
+        "segments": 89,
+        "percentage": 0.41998961823415604
+      },
+      {
+        "cluster": 23,
+        "segments": 106,
+        "percentage": 0.5002123543013544
+      },
+      {
+        "cluster": 24,
+        "segments": 58,
+        "percentage": 0.27370109952338256
+      },
+      {
+        "cluster": 25,
+        "segments": 91,
+        "percentage": 0.42942758718323815
+      },
+      {
+        "cluster": 26,
+        "segments": 115,
+        "percentage": 0.542683214572224
+      },
+      {
+        "cluster": 27,
+        "segments": 104,
+        "percentage": 0.4907743853522722
+      },
+      {
+        "cluster": 28,
+        "segments": 111,
+        "percentage": 0.5238072766740598
+      },
+      {
+        "cluster": 29,
+        "segments": 77,
+        "percentage": 0.36336180453966305
+      },
+      {
+        "cluster": 30,
+        "segments": 67,
+        "percentage": 0.3161719597942523
+      },
+      {
+        "cluster": 31,
+        "segments": 518,
+        "percentage": 2.444433957812279
+      },
+      {
+        "cluster": 32,
+        "segments": 158,
+        "percentage": 0.7455995469774904
+      },
+      {
+        "cluster": 33,
+        "segments": 221,
+        "percentage": 1.0428955688735784
+      },
+      {
+        "cluster": 34,
+        "segments": 166,
+        "percentage": 0.7833514227738191
+      },
+      {
+        "cluster": 35,
+        "segments": 399,
+        "percentage": 1.8828748053418904
+      },
+      {
+        "cluster": 36,
+        "segments": 119,
+        "percentage": 0.5615591524703883
+      },
+      {
+        "cluster": 37,
+        "segments": 143,
+        "percentage": 0.6748147798593742
+      },
+      {
+        "cluster": 38,
+        "segments": 60,
+        "percentage": 0.2831390684724647
+      },
+      {
+        "cluster": 39,
+        "segments": 85,
+        "percentage": 0.4011136803359917
+      },
+      {
+        "cluster": 40,
+        "segments": 140,
+        "percentage": 0.660657826435751
+      },
+      {
+        "cluster": 41,
+        "segments": 53,
+        "percentage": 0.2501061771506772
+      },
+      {
+        "cluster": 42,
+        "segments": 99,
+        "percentage": 0.4671794629795668
+      },
+      {
+        "cluster": 43,
+        "segments": 115,
+        "percentage": 0.542683214572224
+      },
+      {
+        "cluster": 44,
+        "segments": 76,
+        "percentage": 0.358642820065122
+      },
+      {
+        "cluster": 45,
+        "segments": 149,
+        "percentage": 0.7031286867066208
+      },
+      {
+        "cluster": 46,
+        "segments": 83,
+        "percentage": 0.39167571138690954
+      },
+      {
+        "cluster": 47,
+        "segments": 104,
+        "percentage": 0.4907743853522722
+      },
+      {
+        "cluster": 48,
+        "segments": 719,
+        "percentage": 3.3929498371950357
+      },
+      {
+        "cluster": 49,
+        "segments": 389,
+        "percentage": 1.8356849605964796
+      },
+      {
+        "cluster": 50,
+        "segments": 66,
+        "percentage": 0.3114529753197112
+      },
+      {
+        "cluster": 51,
+        "segments": 50,
+        "percentage": 0.23594922372705393
+      },
+      {
+        "cluster": 52,
+        "segments": 80,
+        "percentage": 0.3775187579632863
+      },
+      {
+        "cluster": 53,
+        "segments": 51,
+        "percentage": 0.240668208201595
+      },
+      {
+        "cluster": 54,
+        "segments": 376,
+        "percentage": 1.7743381624274457
+      },
+      {
+        "cluster": 55,
+        "segments": 328,
+        "percentage": 1.5478269076494737
+      },
+      {
+        "cluster": 56,
+        "segments": 55,
+        "percentage": 0.25954414609975934
+      },
+      {
+        "cluster": 57,
+        "segments": 339,
+        "percentage": 1.5997357368694256
+      },
+      {
+        "cluster": 58,
+        "segments": 98,
+        "percentage": 0.4624604785050257
+      },
+      {
+        "cluster": 59,
+        "segments": 90,
+        "percentage": 0.4247086027086971
+      },
+      {
+        "cluster": 60,
+        "segments": 77,
+        "percentage": 0.36336180453966305
+      },
+      {
+        "cluster": 61,
+        "segments": 118,
+        "percentage": 0.5568401679958473
+      },
+      {
+        "cluster": 62,
+        "segments": 57,
+        "percentage": 0.2689821150488415
+      },
+      {
+        "cluster": 63,
+        "segments": 396,
+        "percentage": 1.8687178519182672
+      },
+      {
+        "cluster": 64,
+        "segments": 110,
+        "percentage": 0.5190882921995187
+      },
+      {
+        "cluster": 65,
+        "segments": 784,
+        "percentage": 3.6996838280402056
+      },
+      {
+        "cluster": 66,
+        "segments": 137,
+        "percentage": 0.6465008730121278
+      },
+      {
+        "cluster": 67,
+        "segments": 83,
+        "percentage": 0.39167571138690954
+      },
+      {
+        "cluster": 68,
+        "segments": 126,
+        "percentage": 0.5945920437921759
+      },
+      {
+        "cluster": 69,
+        "segments": 184,
+        "percentage": 0.8682931433155585
+      },
+      {
+        "cluster": 70,
+        "segments": 58,
+        "percentage": 0.27370109952338256
+      },
+      {
+        "cluster": 71,
+        "segments": 64,
+        "percentage": 0.30201500637062906
+      },
+      {
+        "cluster": 72,
+        "segments": 74,
+        "percentage": 0.3492048511160398
+      },
+      {
+        "cluster": 73,
+        "segments": 164,
+        "percentage": 0.7739134538247369
+      },
+      {
+        "cluster": 74,
+        "segments": 342,
+        "percentage": 1.6138926902930488
+      },
+      {
+        "cluster": 75,
+        "segments": 170,
+        "percentage": 0.8022273606719834
+      },
+      {
+        "cluster": 76,
+        "segments": 103,
+        "percentage": 0.48605540087773114
+      },
+      {
+        "cluster": 77,
+        "segments": 115,
+        "percentage": 0.542683214572224
+      },
+      {
+        "cluster": 78,
+        "segments": 55,
+        "percentage": 0.25954414609975934
+      },
+      {
+        "cluster": 79,
+        "segments": 113,
+        "percentage": 0.5332452456231419
+      },
+      {
+        "cluster": 80,
+        "segments": 141,
+        "percentage": 0.6653768109102921
+      },
+      {
+        "cluster": 81,
+        "segments": 190,
+        "percentage": 0.896607050162805
+      },
+      {
+        "cluster": 82,
+        "segments": 126,
+        "percentage": 0.5945920437921759
+      },
+      {
+        "cluster": 83,
+        "segments": 124,
+        "percentage": 0.5851540748430938
+      },
+      {
+        "cluster": 84,
+        "segments": 123,
+        "percentage": 0.5804350903685527
+      },
+      {
+        "cluster": 85,
+        "segments": 573,
+        "percentage": 2.7039781039120383
+      },
+      {
+        "cluster": 86,
+        "segments": 63,
+        "percentage": 0.29729602189608795
+      },
+      {
+        "cluster": 87,
+        "segments": 132,
+        "percentage": 0.6229059506394224
+      },
+      {
+        "cluster": 88,
+        "segments": 76,
+        "percentage": 0.358642820065122
+      },
+      {
+        "cluster": 89,
+        "segments": 168,
+        "percentage": 0.7927893917229012
+      },
+      {
+        "cluster": 90,
+        "segments": 108,
+        "percentage": 0.5096503232504365
+      },
+      {
+        "cluster": 91,
+        "segments": 54,
+        "percentage": 0.25482516162521823
+      },
+      {
+        "cluster": 92,
+        "segments": 211,
+        "percentage": 0.9957057241281676
+      },
+      {
+        "cluster": 93,
+        "segments": 235,
+        "percentage": 1.1089613515171535
+      },
+      {
+        "cluster": 94,
+        "segments": 333,
+        "percentage": 1.5714218300221792
+      },
+      {
+        "cluster": 95,
+        "segments": 91,
+        "percentage": 0.42942758718323815
+      },
+      {
+        "cluster": 96,
+        "segments": 95,
+        "percentage": 0.4483035250814025
+      },
+      {
+        "cluster": 97,
+        "segments": 187,
+        "percentage": 0.8824500967391817
+      },
+      {
+        "cluster": 98,
+        "segments": 75,
+        "percentage": 0.3539238355905809
+      },
+      {
+        "cluster": 99,
+        "segments": 173,
+        "percentage": 0.8163843140956066
+      },
+      {
+        "cluster": 100,
+        "segments": 80,
+        "percentage": 0.3775187579632863
+      },
+      {
+        "cluster": 101,
+        "segments": 113,
+        "percentage": 0.5332452456231419
+      },
+      {
+        "cluster": 102,
+        "segments": 54,
+        "percentage": 0.25482516162521823
+      },
+      {
+        "cluster": 103,
+        "segments": 208,
+        "percentage": 0.9815487707045444
+      }
+    ],
+    "noise_included_size_distribution": [
+      {
+        "cluster": -1,
+        "segments": 3342
+      },
+      {
+        "cluster": 0,
+        "segments": 80
+      },
+      {
+        "cluster": 1,
+        "segments": 137
+      },
+      {
+        "cluster": 2,
+        "segments": 108
+      },
+      {
+        "cluster": 3,
+        "segments": 61
+      },
+      {
+        "cluster": 4,
+        "segments": 419
+      },
+      {
+        "cluster": 5,
+        "segments": 1408
+      },
+      {
+        "cluster": 6,
+        "segments": 360
+      },
+      {
+        "cluster": 7,
+        "segments": 193
+      },
+      {
+        "cluster": 8,
+        "segments": 65
+      },
+      {
+        "cluster": 9,
+        "segments": 95
+      },
+      {
+        "cluster": 10,
+        "segments": 211
+      },
+      {
+        "cluster": 11,
+        "segments": 69
+      },
+      {
+        "cluster": 12,
+        "segments": 133
+      },
+      {
+        "cluster": 13,
+        "segments": 90
+      },
+      {
+        "cluster": 14,
+        "segments": 66
+      },
+      {
+        "cluster": 15,
+        "segments": 72
+      },
+      {
+        "cluster": 16,
+        "segments": 81
+      },
+      {
+        "cluster": 17,
+        "segments": 424
+      },
+      {
+        "cluster": 18,
+        "segments": 100
+      },
+      {
+        "cluster": 19,
+        "segments": 59
+      },
+      {
+        "cluster": 20,
+        "segments": 224
+      },
+      {
+        "cluster": 21,
+        "segments": 184
+      },
+      {
+        "cluster": 22,
+        "segments": 89
+      },
+      {
+        "cluster": 23,
+        "segments": 106
+      },
+      {
+        "cluster": 24,
+        "segments": 58
+      },
+      {
+        "cluster": 25,
+        "segments": 91
+      },
+      {
+        "cluster": 26,
+        "segments": 115
+      },
+      {
+        "cluster": 27,
+        "segments": 104
+      },
+      {
+        "cluster": 28,
+        "segments": 111
+      },
+      {
+        "cluster": 29,
+        "segments": 77
+      },
+      {
+        "cluster": 30,
+        "segments": 67
+      },
+      {
+        "cluster": 31,
+        "segments": 518
+      },
+      {
+        "cluster": 32,
+        "segments": 158
+      },
+      {
+        "cluster": 33,
+        "segments": 221
+      },
+      {
+        "cluster": 34,
+        "segments": 166
+      },
+      {
+        "cluster": 35,
+        "segments": 399
+      },
+      {
+        "cluster": 36,
+        "segments": 119
+      },
+      {
+        "cluster": 37,
+        "segments": 143
+      },
+      {
+        "cluster": 38,
+        "segments": 60
+      },
+      {
+        "cluster": 39,
+        "segments": 85
+      },
+      {
+        "cluster": 40,
+        "segments": 140
+      },
+      {
+        "cluster": 41,
+        "segments": 53
+      },
+      {
+        "cluster": 42,
+        "segments": 99
+      },
+      {
+        "cluster": 43,
+        "segments": 115
+      },
+      {
+        "cluster": 44,
+        "segments": 76
+      },
+      {
+        "cluster": 45,
+        "segments": 149
+      },
+      {
+        "cluster": 46,
+        "segments": 83
+      },
+      {
+        "cluster": 47,
+        "segments": 104
+      },
+      {
+        "cluster": 48,
+        "segments": 719
+      },
+      {
+        "cluster": 49,
+        "segments": 389
+      },
+      {
+        "cluster": 50,
+        "segments": 66
+      },
+      {
+        "cluster": 51,
+        "segments": 50
+      },
+      {
+        "cluster": 52,
+        "segments": 80
+      },
+      {
+        "cluster": 53,
+        "segments": 51
+      },
+      {
+        "cluster": 54,
+        "segments": 376
+      },
+      {
+        "cluster": 55,
+        "segments": 328
+      },
+      {
+        "cluster": 56,
+        "segments": 55
+      },
+      {
+        "cluster": 57,
+        "segments": 339
+      },
+      {
+        "cluster": 58,
+        "segments": 98
+      },
+      {
+        "cluster": 59,
+        "segments": 90
+      },
+      {
+        "cluster": 60,
+        "segments": 77
+      },
+      {
+        "cluster": 61,
+        "segments": 118
+      },
+      {
+        "cluster": 62,
+        "segments": 57
+      },
+      {
+        "cluster": 63,
+        "segments": 396
+      },
+      {
+        "cluster": 64,
+        "segments": 110
+      },
+      {
+        "cluster": 65,
+        "segments": 784
+      },
+      {
+        "cluster": 66,
+        "segments": 137
+      },
+      {
+        "cluster": 67,
+        "segments": 83
+      },
+      {
+        "cluster": 68,
+        "segments": 126
+      },
+      {
+        "cluster": 69,
+        "segments": 184
+      },
+      {
+        "cluster": 70,
+        "segments": 58
+      },
+      {
+        "cluster": 71,
+        "segments": 64
+      },
+      {
+        "cluster": 72,
+        "segments": 74
+      },
+      {
+        "cluster": 73,
+        "segments": 164
+      },
+      {
+        "cluster": 74,
+        "segments": 342
+      },
+      {
+        "cluster": 75,
+        "segments": 170
+      },
+      {
+        "cluster": 76,
+        "segments": 103
+      },
+      {
+        "cluster": 77,
+        "segments": 115
+      },
+      {
+        "cluster": 78,
+        "segments": 55
+      },
+      {
+        "cluster": 79,
+        "segments": 113
+      },
+      {
+        "cluster": 80,
+        "segments": 141
+      },
+      {
+        "cluster": 81,
+        "segments": 190
+      },
+      {
+        "cluster": 82,
+        "segments": 126
+      },
+      {
+        "cluster": 83,
+        "segments": 124
+      },
+      {
+        "cluster": 84,
+        "segments": 123
+      },
+      {
+        "cluster": 85,
+        "segments": 573
+      },
+      {
+        "cluster": 86,
+        "segments": 63
+      },
+      {
+        "cluster": 87,
+        "segments": 132
+      },
+      {
+        "cluster": 88,
+        "segments": 76
+      },
+      {
+        "cluster": 89,
+        "segments": 168
+      },
+      {
+        "cluster": 90,
+        "segments": 108
+      },
+      {
+        "cluster": 91,
+        "segments": 54
+      },
+      {
+        "cluster": 92,
+        "segments": 211
+      },
+      {
+        "cluster": 93,
+        "segments": 235
+      },
+      {
+        "cluster": 94,
+        "segments": 333
+      },
+      {
+        "cluster": 95,
+        "segments": 91
+      },
+      {
+        "cluster": 96,
+        "segments": 95
+      },
+      {
+        "cluster": 97,
+        "segments": 187
+      },
+      {
+        "cluster": 98,
+        "segments": 75
+      },
+      {
+        "cluster": 99,
+        "segments": 173
+      },
+      {
+        "cluster": 100,
+        "segments": 80
+      },
+      {
+        "cluster": 101,
+        "segments": 113
+      },
+      {
+        "cluster": 102,
+        "segments": 54
+      },
+      {
+        "cluster": 103,
+        "segments": 208
+      }
+    ]
+  },
+  "silhouette": {
+    "score": 0.6294634342193604,
+    "sampled_non_noise_points": 3000,
+    "note": "Sampled non-noise points in the 15-D UMAP clustering space."
+  },
+  "post_cluster_species_metrics": {
+    "status": "exploratory_post_clustering_only",
+    "samples": 17849,
+    "adjusted_rand_index": 0.17456995074340517,
+    "normalized_mutual_info": 0.6193026515822699,
+    "note": "Species labels were not passed to UMAP or HDBSCAN."
+  },
+  "representative_samples_written": 312,
+  "software": {
+    "python": "3.14.0b1",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.8.0",
+    "umap_learn": "0.6.0"
+  },
+  "outputs": [
+    "cluster_assignments.csv",
+    "cluster_sizes.csv",
+    "representative_samples.csv",
+    "umap_coordinates.csv",
+    "umap_clustering_coordinates.npy",
+    "umap_clusters.png",
+    "umap_noise.png",
+    "cluster_size_distribution.png",
+    "stage6_report.md",
+    "run_summary.json"
+  ],
+  "species_label_use": "post-clustering exploratory metrics only"
+}

@@ -1,0 +1,12 @@
+﻿location_group,split,record_count,location_names,coordinates,start_date,end_date
+location-group-001,train,54,90 miles E of Gibraltar,"36,-4",1958-08-02T00:00:00Z,1958-08-02T00:00:00Z
+location-group-002,train,14,"Western North Atlantic, between Block Canyon and Atlantis Canyon","39,-70",1953-06-11T00:00:00Z,1953-06-11T00:00:00Z
+location-group-003,train,47,,"39,-72",1958-08-05T00:00:00Z,1958-08-05T00:00:00Z
+location-group-004,validation,172,W of Browns Bank,"41,-66 | 43,-62",1977-10-08T00:00:00Z,1977-10-12T00:00:00Z
+location-group-005,train,506,"South of Sable Island, North Atlantic | Western North Atlantic","42,-61",1975-09-12T00:00:00Z,1975-09-12T00:00:00Z
+location-group-006,train,23,"Northern edge of Georges Bank, western North Atlantic","42,-67",1956-09-20T00:00:00Z,1956-09-20T00:00:00Z
+location-group-007,train,240,"Gully, SE Sable I., Canada | SE Sable Island | SE Sable Islandx","43,-59 | 43,-58",1975-09-08T00:00:00Z,1975-09-10T00:00:00Z
+location-group-008,train,36,"Near San Remo, Italy","43,8",1988-07-26T00:00:00Z,1988-07-26T00:00:00Z
+location-group-009,validation,62,"Dildo Arm, Trinity Bay, Newfoundland, Canada","47,-53",1954-07-18T00:00:00Z,1954-07-18T00:00:00Z
+location-group-010,train,13,"Trinity Bay, Newfoundland","48,-53",1954-07-18T00:00:00Z,1954-07-18T00:00:00Z
+location-group-011,train,2,"Sasuit Harbor, Dennis, Cape Cod MA",,1991-09-30T00:00:00Z,1991-09-30T00:00:00Z

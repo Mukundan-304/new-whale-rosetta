@@ -1,0 +1,51 @@
+sequence_type,sequence_tuple,sequence_repr,frequency,is_homogeneous_self_loop,involves_noise,species_context,is_alternating_motif
+bigram_2_clusters,"(5, 5)",Cluster_5 -> Cluster_5,1228,True,False,AC1F (100%) -> AC1F (100%),
+bigram_2_clusters,"(48, 48)",Cluster_48 -> Cluster_48,644,True,False,BA2A (98%) -> BA2A (98%),
+bigram_2_clusters,"(31, 31)",Cluster_31 -> Cluster_31,486,True,False,BE3D (61%) -> BE3D (61%),
+bigram_2_clusters,"(-1, -1)",Cluster_-1 -> Cluster_-1,449,True,True,Noise / Unclustered -> Noise / Unclustered,
+bigram_2_clusters,"(17, 17)",Cluster_17 -> Cluster_17,397,True,False,BA2A (95%) -> BA2A (95%),
+bigram_2_clusters,"(35, 35)",Cluster_35 -> Cluster_35,357,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(49, 49)",Cluster_49 -> Cluster_49,347,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(54, 54)",Cluster_54 -> Cluster_54,343,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(6, 6)",Cluster_6 -> Cluster_6,335,True,False,AC1F (100%) -> AC1F (100%),
+bigram_2_clusters,"(55, 55)",Cluster_55 -> Cluster_55,280,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(57, 57)",Cluster_57 -> Cluster_57,235,True,False,AC2A (100%) -> AC2A (100%),
+bigram_2_clusters,"(20, 20)",Cluster_20 -> Cluster_20,213,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(33, 33)",Cluster_33 -> Cluster_33,211,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(10, 10)",Cluster_10 -> Cluster_10,203,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(7, 7)",Cluster_7 -> Cluster_7,189,True,False,BA2A (99%) -> BA2A (99%),
+bigram_2_clusters,"(5, 4)",Cluster_5 -> Cluster_4,163,False,False,AC1F (100%) -> AC1F (93%),
+bigram_2_clusters,"(34, 34)",Cluster_34 -> Cluster_34,157,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(32, 32)",Cluster_32 -> Cluster_32,147,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(37, 37)",Cluster_37 -> Cluster_37,134,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(21, 21)",Cluster_21 -> Cluster_21,126,True,False,CC5A (98%) -> CC5A (98%),
+bigram_2_clusters,"(40, 40)",Cluster_40 -> Cluster_40,115,True,False,AA1A (100%) -> AA1A (100%),
+bigram_2_clusters,"(26, 26)",Cluster_26 -> Cluster_26,106,True,False,BD15A (97%) -> BD15A (97%),
+bigram_2_clusters,"(36, 36)",Cluster_36 -> Cluster_36,105,True,False,BA2A (100%) -> BA2A (100%),
+bigram_2_clusters,"(2, 2)",Cluster_2 -> Cluster_2,97,True,False,AC1F (100%) -> AC1F (100%),
+bigram_2_clusters,"(28, 28)",Cluster_28 -> Cluster_28,96,True,False,BD15L (99%) -> BD15L (99%),
+trigram_3_clusters,"(5, 5, 5)",Cluster_5 -> Cluster_5 -> Cluster_5,1108,True,False,AC1F (100%) -> AC1F (100%) -> AC1F (100%),False
+trigram_3_clusters,"(48, 48, 48)",Cluster_48 -> Cluster_48 -> Cluster_48,602,True,False,BA2A (98%) -> BA2A (98%) -> BA2A (98%),False
+trigram_3_clusters,"(31, 31, 31)",Cluster_31 -> Cluster_31 -> Cluster_31,464,True,False,BE3D (61%) -> BE3D (61%) -> BE3D (61%),False
+trigram_3_clusters,"(17, 17, 17)",Cluster_17 -> Cluster_17 -> Cluster_17,387,True,False,BA2A (95%) -> BA2A (95%) -> BA2A (95%),False
+trigram_3_clusters,"(35, 35, 35)",Cluster_35 -> Cluster_35 -> Cluster_35,324,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(49, 49, 49)",Cluster_49 -> Cluster_49 -> Cluster_49,321,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(54, 54, 54)",Cluster_54 -> Cluster_54 -> Cluster_54,320,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(6, 6, 6)",Cluster_6 -> Cluster_6 -> Cluster_6,318,True,False,AC1F (100%) -> AC1F (100%) -> AC1F (100%),False
+trigram_3_clusters,"(-1, -1, -1)",Cluster_-1 -> Cluster_-1 -> Cluster_-1,295,True,True,Noise / Unclustered -> Noise / Unclustered -> Noise / Unclustered,False
+trigram_3_clusters,"(55, 55, 55)",Cluster_55 -> Cluster_55 -> Cluster_55,250,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(20, 20, 20)",Cluster_20 -> Cluster_20 -> Cluster_20,205,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(33, 33, 33)",Cluster_33 -> Cluster_33 -> Cluster_33,204,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(57, 57, 57)",Cluster_57 -> Cluster_57 -> Cluster_57,200,True,False,AC2A (100%) -> AC2A (100%) -> AC2A (100%),False
+trigram_3_clusters,"(10, 10, 10)",Cluster_10 -> Cluster_10 -> Cluster_10,197,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(7, 7, 7)",Cluster_7 -> Cluster_7 -> Cluster_7,186,True,False,BA2A (99%) -> BA2A (99%) -> BA2A (99%),False
+trigram_3_clusters,"(34, 34, 34)",Cluster_34 -> Cluster_34 -> Cluster_34,151,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(32, 32, 32)",Cluster_32 -> Cluster_32 -> Cluster_32,138,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(37, 37, 37)",Cluster_37 -> Cluster_37 -> Cluster_37,126,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(5, 5, 4)",Cluster_5 -> Cluster_5 -> Cluster_4,112,False,False,AC1F (100%) -> AC1F (100%) -> AC1F (93%),False
+trigram_3_clusters,"(40, 40, 40)",Cluster_40 -> Cluster_40 -> Cluster_40,104,True,False,AA1A (100%) -> AA1A (100%) -> AA1A (100%),False
+trigram_3_clusters,"(26, 26, 26)",Cluster_26 -> Cluster_26 -> Cluster_26,98,True,False,BD15A (97%) -> BD15A (97%) -> BD15A (97%),False
+trigram_3_clusters,"(36, 36, 36)",Cluster_36 -> Cluster_36 -> Cluster_36,93,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(18, 18, 18)",Cluster_18 -> Cluster_18 -> Cluster_18,88,True,False,BA2A (100%) -> BA2A (100%) -> BA2A (100%),False
+trigram_3_clusters,"(28, 28, 28)",Cluster_28 -> Cluster_28 -> Cluster_28,87,True,False,BD15L (99%) -> BD15L (99%) -> BD15L (99%),False
+trigram_3_clusters,"(2, 2, 2)",Cluster_2 -> Cluster_2 -> Cluster_2,87,True,False,AC1F (100%) -> AC1F (100%) -> AC1F (100%),False

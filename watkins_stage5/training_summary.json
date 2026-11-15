@@ -1,0 +1,16 @@
+{
+  "device": "cuda",
+  "encoder_model_id": "laion/clap-htsat-unfused",
+  "encoder_trainable_parameters": 0,
+  "projection_trainable_parameters": 328320,
+  "best_epoch": 3,
+  "best_validation_loss": 1.0604579264635345,
+  "elapsed_training_seconds": 11413.219539200001,
+  "train_samples_per_epoch": 21191,
+  "validation_samples_per_epoch": 4479,
+  "configured_epochs": 3,
+  "cuda_peak_allocated_mib": 959.52001953125,
+  "checkpoint": "D:\\marine\\watkins_stage5\\checkpoints\\best.pt",
+  "smoke_only": false,
+  "train_samples_processed": 63573
+}

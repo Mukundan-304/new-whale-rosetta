@@ -1,0 +1,17 @@
+{
+  "config_digest": "1d7d758caacd24e08f7284a988a3ce486a6b07862a52932eeca783821b2546cb",
+  "data_dir": "D:\\marine\\watkins-marine-mammal-full-cuts\\data",
+  "f_max_hz": 96000.0,
+  "f_min_hz": 20.0,
+  "feature_dtype": "float16",
+  "hop_length": 1024,
+  "log_power_floor": 1e-12,
+  "n_fft": 4096,
+  "n_mels": 128,
+  "normalization_method": "peak",
+  "normalization_target_peak": 0.99,
+  "output_dir": "D:\\marine\\watkins_preprocessed",
+  "records_per_partition": 32,
+  "segment_duration_seconds": 5.0,
+  "target_sample_rate_hz": 192000
+}

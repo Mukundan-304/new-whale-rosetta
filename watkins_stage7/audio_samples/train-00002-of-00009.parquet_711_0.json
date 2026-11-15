@@ -1,0 +1,12 @@
+{
+  "segment_id": "train-00002-of-00009.parquet:711:0",
+  "recording_id": "66002A01",
+  "source_parquet": "D:\\marine\\watkins-marine-mammal-full-cuts\\data\\train-00002-of-00009.parquet",
+  "source_parquet_row": 711,
+  "segment_start_seconds": 0.0,
+  "segment_valid_seconds": 3.33496875,
+  "source_sample_rate_hz": 30000,
+  "source_channels": 1,
+  "written_frames": 100049,
+  "output_encoding": "PCM_16 WAV crop; original Parquet audio is unchanged"
+}
