@@ -34,34 +34,24 @@ Thumbs.db
 *.key
 
 # ==============================
-# Datasets and audio
+# Raw dataset (audio recordings, features and weights ARE tracked)
 # ==============================
 data/
 dataset/
 datasets/
-*.wav
-*.mp3
-*.flac
-*.ogg
-*.m4a
+watkins-marine-mammal-full-cuts/
 *.parquet
 
 # ==============================
 # Model checkpoints
 # ==============================
-*.pt
-*.pth
 *.ckpt
 *.onnx
 *.safetensors
-*.pkl
-*.joblib
 
 # ==============================
 # Large generated files
 # ==============================
-*.npy
-*.npz
 *.h5
 *.hdf5
 *.zip
